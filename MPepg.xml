@@ -8,6 +8,11 @@
     <display-name lang="pt">A&amp;E HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="http://www.lineup.tv.br/canais/hbosignature.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
   <channel id="ANIMAL PLANET">
     <display-name lang="pt">ANIMAL PLANET</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -16,12 +21,77 @@
     <display-name lang="pt">ANIMAL PLANET HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="ARTE1">
+    <display-name lang="pt">ARTE1</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvantares.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ARTE1 HD">
+    <display-name lang="pt">ARTE1 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
   <channel id="AXN">
     <display-name lang="pt">AXN</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="AXN HD">
     <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Baby Tv">
+    <display-name lang="pt">Baby Tv</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BABY TV HD">
+    <display-name lang="pt">BABY TV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/foxnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Campinas">
+    <display-name lang="pt">Band Campinas</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcidade-guarapuava.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND NEWS">
+    <display-name lang="pt">BAND NEWS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND NEWS HD">
+    <display-name lang="pt">BAND NEWS HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvsetorial.gif|http://www.lineup.tv.br/canais/tvnovotempo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BAND SP">
+    <display-name lang="pt">BAND SP</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND SPORTS">
+    <display-name lang="pt">BAND SPORTS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND SPORTS HD">
+    <display-name lang="pt">BAND SPORTS HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="pt">BOOMERANG</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BOOMERANG HD">
+    <display-name lang="pt">BOOMERANG HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmiramar.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL BRASIL">
+    <display-name lang="pt">CANAL BRASIL</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <programme start="20181112004000 -0400" stop="20181112010500 -0400" channel="A&amp;E">
@@ -2810,6 +2880,5009 @@
   </programme>
   <programme start="20181114230000 -0400" stop="20181115000000 -0400" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112003000 -0400" channel="Baby Tv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112003000 -0400" stop="20181112010000 -0400" channel="Baby Tv">
+    <title lang="pt">Noites Estreladas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010000 -0400" stop="20181112013000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112013000 -0400" stop="20181112020000 -0400" channel="Baby Tv">
+    <title lang="pt">Pede um Desejo à Estrela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112023000 -0400" channel="Baby Tv">
+    <title lang="pt">O Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112023000 -0400" stop="20181112030000 -0400" channel="Baby Tv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112033000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033000 -0400" stop="20181112040000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112043000 -0400" channel="Baby Tv">
+    <title lang="pt">Pede um Desejo à Estrela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112043000 -0400" stop="20181112050000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112053000 -0400" channel="Baby Tv">
+    <title lang="pt">Sonhar com a Kim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112053000 -0400" stop="20181112060000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e o Alfabeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112063000 -0400" channel="Baby Tv">
+    <title lang="pt">Pim e Pimba</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112063000 -0400" stop="20181112070000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112073000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112073000 -0400" stop="20181112080000 -0400" channel="Baby Tv">
+    <title lang="pt">Estúdios BabyTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112083000 -0400" channel="Baby Tv">
+    <title lang="pt">A Festa Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112083000 -0400" stop="20181112090000 -0400" channel="Baby Tv">
+    <title lang="pt">Pequenas Batidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 -0400" stop="20181112093000 -0400" channel="Baby Tv">
+    <title lang="pt">Gi-Raffa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093000 -0400" stop="20181112100000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112103000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112103000 -0400" stop="20181112110000 -0400" channel="Baby Tv">
+    <title lang="pt">A Pequena Lola Visita a Fazenda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 -0400" stop="20181112113000 -0400" channel="Baby Tv">
+    <title lang="pt">Bzzz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112113000 -0400" stop="20181112120000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e os Números</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112123000 -0400" channel="Baby Tv">
+    <title lang="pt">Cuddlies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123000 -0400" stop="20181112130000 -0400" channel="Baby Tv">
+    <title lang="pt">Crafty Rafty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112133000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112133000 -0400" stop="20181112140000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112143000 -0400" channel="Baby Tv">
+    <title lang="pt">Os Ratinhos Construtores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112143000 -0400" stop="20181112150000 -0400" channel="Baby Tv">
+    <title lang="pt">A Festa Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112153000 -0400" channel="Baby Tv">
+    <title lang="pt">Pequenas Batidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112153000 -0400" stop="20181112160000 -0400" channel="Baby Tv">
+    <title lang="pt">Crafty Rafty</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112163000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112163000 -0400" stop="20181112170000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112173000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e o Alfabeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173000 -0400" stop="20181112180000 -0400" channel="Baby Tv">
+    <title lang="pt">Pim e Pimba</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112183000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112183000 -0400" stop="20181112190000 -0400" channel="Baby Tv">
+    <title lang="pt">Puzzles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112190000 -0400" stop="20181112193000 -0400" channel="Baby Tv">
+    <title lang="pt">Que Dia Maravilhoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112200000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112203000 -0400" channel="Baby Tv">
+    <title lang="pt">Boa Noite Ursinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112210000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181112213000 -0400" channel="Baby Tv">
+    <title lang="pt">Bola de Cristal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112213000 -0400" stop="20181112220000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112223000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112223000 -0400" stop="20181112230000 -0400" channel="Baby Tv">
+    <title lang="pt">Crepúsculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230000 -0400" stop="20181112233000 -0400" channel="Baby Tv">
+    <title lang="pt">Flor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112233000 -0400" stop="20181113000000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrelas Mágicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113003000 -0400" channel="Baby Tv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003000 -0400" stop="20181113010000 -0400" channel="Baby Tv">
+    <title lang="pt">Céu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113013000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113013000 -0400" stop="20181113020000 -0400" channel="Baby Tv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113023000 -0400" channel="Baby Tv">
+    <title lang="pt">O Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113023000 -0400" stop="20181113030000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113033000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033000 -0400" stop="20181113040000 -0400" channel="Baby Tv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113043000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrelas Mágicas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113050000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113053000 -0400" channel="Baby Tv">
+    <title lang="pt">Sonhar com a Kim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113053000 -0400" stop="20181113060000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e o Alfabeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113063000 -0400" channel="Baby Tv">
+    <title lang="pt">Pim e Pimba</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113070000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113073000 -0400" channel="Baby Tv">
+    <title lang="pt">Draco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113080000 -0400" channel="Baby Tv">
+    <title lang="pt">Estúdios BabyTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="Baby Tv">
+    <title lang="pt">A Festa Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="Baby Tv">
+    <title lang="pt">Pequenas Batidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113093000 -0400" channel="Baby Tv">
+    <title lang="pt">Gi-Raffa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113100000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113103000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113110000 -0400" channel="Baby Tv">
+    <title lang="pt">A Pequena Lola Visita a Fazenda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113113000 -0400" channel="Baby Tv">
+    <title lang="pt">Bzzz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113113000 -0400" stop="20181113120000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e os Números</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113123000 -0400" channel="Baby Tv">
+    <title lang="pt">Cuddlies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123000 -0400" stop="20181113130000 -0400" channel="Baby Tv">
+    <title lang="pt">A Zoe Quer Ser</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113133000 -0400" channel="Baby Tv">
+    <title lang="pt">Tulli</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113133000 -0400" stop="20181113140000 -0400" channel="Baby Tv">
+    <title lang="pt">Bonecos de Abraçar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113143000 -0400" channel="Baby Tv">
+    <title lang="pt">Os Ratinhos Construtores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113143000 -0400" stop="20181113150000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e os Números</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113153000 -0400" channel="Baby Tv">
+    <title lang="pt">Cuddlies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113160000 -0400" channel="Baby Tv">
+    <title lang="pt">A Zoe Quer Ser</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113163000 -0400" channel="Baby Tv">
+    <title lang="pt">Tulli</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163000 -0400" stop="20181113170000 -0400" channel="Baby Tv">
+    <title lang="pt">Bonecos de Abraçar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113173000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e o Alfabeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113180000 -0400" channel="Baby Tv">
+    <title lang="pt">Combinações Divertidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113183000 -0400" channel="Baby Tv">
+    <title lang="pt">Olha o Que Encontrei</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113183000 -0400" stop="20181113190000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113193000 -0400" channel="Baby Tv">
+    <title lang="pt">O Grupo dos Pequenos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113200000 -0400" channel="Baby Tv">
+    <title lang="pt">Acompanha o Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113203000 -0400" channel="Baby Tv">
+    <title lang="pt">O Mundo de Louie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113210000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113213000 -0400" channel="Baby Tv">
+    <title lang="pt">Bola de Cristal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113220000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113223000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223000 -0400" stop="20181113230000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181113233000 -0400" channel="Baby Tv">
+    <title lang="pt">Oceano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113233000 -0400" stop="20181114000000 -0400" channel="Baby Tv">
+    <title lang="pt">Concertino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114003000 -0400" channel="Baby Tv">
+    <title lang="pt">Céu Noturno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114003000 -0400" stop="20181114010000 -0400" channel="Baby Tv">
+    <title lang="pt">Noites Estreladas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114013000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114013000 -0400" stop="20181114020000 -0400" channel="Baby Tv">
+    <title lang="pt">Hora de Dormir</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114023000 -0400" channel="Baby Tv">
+    <title lang="pt">O Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114023000 -0400" stop="20181114030000 -0400" channel="Baby Tv">
+    <title lang="pt">Noites Estreladas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114033000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114033000 -0400" stop="20181114040000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114043000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114043000 -0400" stop="20181114050000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114053000 -0400" channel="Baby Tv">
+    <title lang="pt">Os Ratinhos Construtores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114053000 -0400" stop="20181114060000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e o Alfabeto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114063000 -0400" channel="Baby Tv">
+    <title lang="pt">Combinações Divertidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063000 -0400" stop="20181114070000 -0400" channel="Baby Tv">
+    <title lang="pt">Olha o Que Encontrei</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114073000 -0400" channel="Baby Tv">
+    <title lang="pt">Tulli</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114080000 -0400" channel="Baby Tv">
+    <title lang="pt">O Circo Veio à Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114083000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e os Números</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114090000 -0400" channel="Baby Tv">
+    <title lang="pt">Pequenas Batidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114093000 -0400" channel="Baby Tv">
+    <title lang="pt">Gi-Raffa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093000 -0400" stop="20181114100000 -0400" channel="Baby Tv">
+    <title lang="pt">Happy Birthday to You</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114103000 -0400" channel="Baby Tv">
+    <title lang="pt">O Grupo dos Pequenos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114110000 -0400" channel="Baby Tv">
+    <title lang="pt">A Pequena Lola Visita a Fazenda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114113000 -0400" channel="Baby Tv">
+    <title lang="pt">Bzzz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114113000 -0400" stop="20181114120000 -0400" channel="Baby Tv">
+    <title lang="pt">Charlie e os Números</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114123000 -0400" channel="Baby Tv">
+    <title lang="pt">Pequenas Batidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123000 -0400" stop="20181114130000 -0400" channel="Baby Tv">
+    <title lang="pt">O Circo Veio à Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114133000 -0400" channel="Baby Tv">
+    <title lang="pt">As Aventuras do Tucky</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133000 -0400" stop="20181114140000 -0400" channel="Baby Tv">
+    <title lang="pt">Acompanha o Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114143000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114143000 -0400" stop="20181114150000 -0400" channel="Baby Tv">
+    <title lang="pt">Choopies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114153000 -0400" channel="Baby Tv">
+    <title lang="pt">Pequenas Batidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114160000 -0400" channel="Baby Tv">
+    <title lang="pt">O Circo Veio à Cidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114163000 -0400" channel="Baby Tv">
+    <title lang="pt">As Aventuras do Tucky</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163000 -0400" stop="20181114170000 -0400" channel="Baby Tv">
+    <title lang="pt">Acompanha o Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114173000 -0400" channel="Baby Tv">
+    <title lang="pt">Choopies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114180000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114183000 -0400" channel="Baby Tv">
+    <title lang="pt">Tulli</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114183000 -0400" stop="20181114190000 -0400" channel="Baby Tv">
+    <title lang="pt">Gi-Raffa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114193000 -0400" channel="Baby Tv">
+    <title lang="pt">LaLe Ki LoLu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114200000 -0400" channel="Baby Tv">
+    <title lang="pt">A Festa Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114203000 -0400" channel="Baby Tv">
+    <title lang="pt">Boa Noite Ursinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114210000 -0400" channel="Baby Tv">
+    <title lang="pt">Wooly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181114213000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114220000 -0400" channel="Baby Tv">
+    <title lang="pt">Canções e Rimas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114223000 -0400" channel="Baby Tv">
+    <title lang="pt">Estrela Cadente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223000 -0400" stop="20181114230000 -0400" channel="Baby Tv">
+    <title lang="pt">Milky Way</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181114233000 -0400" channel="Baby Tv">
+    <title lang="pt">Oceano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233000 -0400" stop="20181115000000 -0400" channel="Baby Tv">
+    <title lang="pt">Concertino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112040000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112050000 -0400" channel="BAND NEWS">
+    <title lang="pt">Canal Livre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112074000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112074000 -0400" stop="20181112120000 -0400" channel="BAND NEWS">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112140000 -0400" channel="BAND NEWS">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112180000 -0400" channel="BAND NEWS">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112200000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112203000 -0400" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112213000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112213000 -0400" stop="20181112220000 -0400" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181113000000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113020000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113024500 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113024500 -0400" stop="20181113043000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113050000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal Terraviva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113074000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113074000 -0400" stop="20181113120000 -0400" channel="BAND NEWS">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113140000 -0400" channel="BAND NEWS">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113180000 -0400" channel="BAND NEWS">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113200000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113203000 -0400" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113213000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113220000 -0400" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181114000000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114020000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114024500 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024500 -0400" stop="20181114030000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114033000 -0400" channel="BAND NEWS">
+    <title lang="pt">Conexão com The New York Times</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114033000 -0400" stop="20181114043000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114043000 -0400" stop="20181114050000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal Terraviva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114074000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114074000 -0400" stop="20181114120000 -0400" channel="BAND NEWS">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114140000 -0400" channel="BAND NEWS">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114180000 -0400" channel="BAND NEWS">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114200000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114203000 -0400" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114213000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114220000 -0400" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181115000000 -0400" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112014500 -0400" channel="BAND SP">
+    <title lang="pt">Domingo No Cinema: Confissões de Uma Mente Perigosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112014500 -0400" stop="20181112024500 -0400" channel="BAND SP">
+    <title lang="pt">Deles e Delas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112024500 -0400" stop="20181112030000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112040000 -0400" channel="BAND SP">
+    <title lang="pt">Band Esporte Clube</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112050000 -0400" channel="BAND SP">
+    <title lang="pt">Só Risos</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112070000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112073000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112073000 -0400" stop="20181112080000 -0400" channel="BAND SP">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112083000 -0400" channel="BAND SP">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112083000 -0400" stop="20181112085000 -0400" channel="BAND SP">
+    <title lang="pt">Sempre Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112085000 -0400" stop="20181112095000 -0400" channel="BAND SP">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112095000 -0400" stop="20181112110000 -0400" channel="BAND SP">
+    <title lang="pt">Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 -0400" stop="20181112123000 -0400" channel="BAND SP">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123000 -0400" stop="20181112130000 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112131000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112131000 -0400" stop="20181112132000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112132000 -0400" stop="20181112135000 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112135000 -0400" stop="20181112142000 -0400" channel="BAND SP">
+    <title lang="pt">Fala Baixada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112142000 -0400" stop="20181112151500 -0400" channel="BAND SP">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112151500 -0400" stop="20181112161500 -0400" channel="BAND SP">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112161500 -0400" stop="20181112185000 -0400" channel="BAND SP">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112185000 -0400" stop="20181112192000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112192000 -0400" stop="20181112203000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112204000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112204000 -0400" stop="20181112205000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112205000 -0400" stop="20181112213500 -0400" channel="BAND SP">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112213500 -0400" stop="20181112222700 -0400" channel="BAND SP">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112222700 -0400" stop="20181112223500 -0400" channel="BAND SP">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112223500 -0400" stop="20181112224500 -0400" channel="BAND SP">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112224500 -0400" stop="20181112234500 -0400" channel="BAND SP">
+    <title lang="pt">Planeta Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112234500 -0400" stop="20181113004000 -0400" channel="BAND SP">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113004000 -0400" stop="20181113011000 -0400" channel="BAND SP">
+    <title lang="pt">Band Eleições</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113011000 -0400" stop="20181113020000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113020500 -0400" channel="BAND SP">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020500 -0400" stop="20181113023000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113023000 -0400" stop="20181113030000 -0400" channel="BAND SP">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113040000 -0400" channel="BAND SP">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113044500 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113044500 -0400" stop="20181113050000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113070000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113073000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113080000 -0400" channel="BAND SP">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="BAND SP">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113085000 -0400" channel="BAND SP">
+    <title lang="pt">Sempre Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113085000 -0400" stop="20181113095000 -0400" channel="BAND SP">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113095000 -0400" stop="20181113110000 -0400" channel="BAND SP">
+    <title lang="pt">Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113123000 -0400" channel="BAND SP">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123000 -0400" stop="20181113130000 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113131000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113131000 -0400" stop="20181113132000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113132000 -0400" stop="20181113135000 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113135000 -0400" stop="20181113142000 -0400" channel="BAND SP">
+    <title lang="pt">Fala Baixada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113142000 -0400" stop="20181113151500 -0400" channel="BAND SP">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113151500 -0400" stop="20181113161500 -0400" channel="BAND SP">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113161500 -0400" stop="20181113185000 -0400" channel="BAND SP">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113185000 -0400" stop="20181113192000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113192000 -0400" stop="20181113203000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113204000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113204000 -0400" stop="20181113205000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113205000 -0400" stop="20181113213500 -0400" channel="BAND SP">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213500 -0400" stop="20181113222700 -0400" channel="BAND SP">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113222700 -0400" stop="20181113223500 -0400" channel="BAND SP">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223500 -0400" stop="20181113224500 -0400" channel="BAND SP">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113224500 -0400" stop="20181114004500 -0400" channel="BAND SP">
+    <title lang="pt">Masterchef Profissionais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114004500 -0400" stop="20181114013000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114013000 -0400" stop="20181114013500 -0400" channel="BAND SP">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114013500 -0400" stop="20181114020500 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020500 -0400" stop="20181114030000 -0400" channel="BAND SP">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114043000 -0400" channel="BAND SP">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114043000 -0400" stop="20181114052000 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114052000 -0400" stop="20181114053500 -0400" channel="BAND SP">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114053500 -0400" stop="20181114060000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114073000 -0400" channel="BAND SP">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114080000 -0400" channel="BAND SP">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114083000 -0400" channel="BAND SP">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114085000 -0400" channel="BAND SP">
+    <title lang="pt">Sempre Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114085000 -0400" stop="20181114095000 -0400" channel="BAND SP">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114095000 -0400" stop="20181114110000 -0400" channel="BAND SP">
+    <title lang="pt">Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114123000 -0400" channel="BAND SP">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123000 -0400" stop="20181114130000 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114131000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114131000 -0400" stop="20181114132000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114132000 -0400" stop="20181114135000 -0400" channel="BAND SP">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114135000 -0400" stop="20181114142000 -0400" channel="BAND SP">
+    <title lang="pt">Fala Baixada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114142000 -0400" stop="20181114151500 -0400" channel="BAND SP">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114151500 -0400" stop="20181114161500 -0400" channel="BAND SP">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114161500 -0400" stop="20181114185000 -0400" channel="BAND SP">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114185000 -0400" stop="20181114192000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114192000 -0400" stop="20181114203000 -0400" channel="BAND SP">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114204000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114204000 -0400" stop="20181114205000 -0400" channel="BAND SP">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114205000 -0400" stop="20181114213500 -0400" channel="BAND SP">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213500 -0400" stop="20181114222700 -0400" channel="BAND SP">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114222700 -0400" stop="20181114223500 -0400" channel="BAND SP">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223500 -0400" stop="20181114224500 -0400" channel="BAND SP">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114224500 -0400" stop="20181115010500 -0400" channel="BAND SP">
+    <title lang="pt">Quarta No Cinema: Gênio Indomável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112030000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112060000 -0400" channel="BAND SPORTS">
+    <title lang="pt">One FC: Cingapura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112070000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112100000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Depois do Jogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112120000 -0400" channel="BAND SPORTS">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112140000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112160000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Next Gen ATP</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112163000 -0400" channel="BAND SPORTS">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112163000 -0400" stop="20181112164500 -0400" channel="BAND SPORTS">
+    <title lang="pt">Sacada do Saretta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112164500 -0400" stop="20181112170000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Futebol Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112173000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173000 -0400" stop="20181112193000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112200000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112220000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112223000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112223000 -0400" stop="20181112233000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112233000 -0400" stop="20181113000000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113030000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113050000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113053000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113053000 -0400" stop="20181113060000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113063000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Papo de Boleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113070000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113100000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113120000 -0400" channel="BAND SPORTS">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113140000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113160000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Fed Cup de Tênis: Rep. Tcheca x EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113170000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113173000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Auto +</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113193000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113203000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113213000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113223000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223000 -0400" stop="20181113233000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113233000 -0400" stop="20181114000000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114020000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114050000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114053000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114053000 -0400" stop="20181114060000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114080000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114090000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114120000 -0400" channel="BAND SPORTS">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114140000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="BAND SPORTS">
+    <title lang="pt">PBR</title>
+    <sub-title lang="pt">Bull Riders</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114160000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114170000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114173000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114193000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114203000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114213000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Super Motor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114220000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Auto +</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114223000 -0400" channel="BAND SPORTS">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223000 -0400" stop="20181114233000 -0400" channel="BAND SPORTS">
+    <title lang="pt">K.O. Arena</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233000 -0400" stop="20181115000000 -0400" channel="BAND SPORTS">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112030000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112060000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">One FC: Cingapura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112070000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112100000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Depois do Jogo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112120000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112140000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112160000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Next Gen ATP</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112163000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112163000 -0400" stop="20181112164500 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Sacada do Saretta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112164500 -0400" stop="20181112170000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Futebol Família</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112173000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173000 -0400" stop="20181112193000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112200000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112220000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112223000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112223000 -0400" stop="20181112233000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112233000 -0400" stop="20181113000000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113030000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113050000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113053000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113053000 -0400" stop="20181113060000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113063000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Papo de Boleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113070000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Por Dentro da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113100000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Baita Amigos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113120000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113140000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113160000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Fed Cup de Tênis: Rep. Tcheca x EUA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113170000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113173000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Auto +</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113193000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113203000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113213000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113223000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223000 -0400" stop="20181113233000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113233000 -0400" stop="20181114000000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114020000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114050000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114053000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114053000 -0400" stop="20181114060000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114080000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114090000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Ace Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114120000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">1º Tempo Band Sports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114140000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">PBR</title>
+    <sub-title lang="pt">Bull Riders</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114160000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Doc. Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114170000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Arquibancada Bandsports</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114173000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114193000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Bola Rolando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114203000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Band Sports News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114213000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Super Motor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114220000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Auto +</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114223000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">World Sailing Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223000 -0400" stop="20181114233000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">K.O. Arena</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233000 -0400" stop="20181115000000 -0400" channel="BAND SPORTS HD">
+    <title lang="pt">Poker Night</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112010000 -0400" channel="BIS">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010000 -0400" stop="20181112020000 -0400" channel="BIS">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112033000 -0400" channel="BIS">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Olé Olé Olé! A Trip Across Latin America</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033000 -0400" stop="20181112040000 -0400" channel="BIS">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112050000 -0400" channel="BIS">
+    <title lang="pt">Live From Abbey Road</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="BIS">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112063000 -0400" channel="BIS">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112063000 -0400" stop="20181112070000 -0400" channel="BIS">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Zz Top</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112080000 -0400" channel="BIS">
+    <title lang="pt">Isle Of Wight 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112090000 -0400" channel="BIS">
+    <title lang="pt">Live From Abbey Road</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 -0400" stop="20181112093000 -0400" channel="BIS">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">The Doors</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093000 -0400" stop="20181112100000 -0400" channel="BIS">
+    <title lang="pt">Rock Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112120000 -0400" channel="BIS">
+    <title lang="pt">Imagine: John Lennon 75th Birthday Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112123000 -0400" channel="BIS">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123000 -0400" stop="20181112130000 -0400" channel="BIS">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Pattie Boyd</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112133000 -0400" channel="BIS">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Zz Top</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112133000 -0400" stop="20181112143000 -0400" channel="BIS">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112143000 -0400" stop="20181112150000 -0400" channel="BIS">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112153000 -0400" channel="BIS">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112153000 -0400" stop="20181112160000 -0400" channel="BIS">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112170000 -0400" channel="BIS">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112180000 -0400" channel="BIS">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112190000 -0400" channel="BIS">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112190000 -0400" stop="20181112193000 -0400" channel="BIS">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112203000 -0400" channel="BIS">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112210000 -0400" channel="BIS">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">The Eagles</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181112220000 -0400" channel="BIS">
+    <title lang="pt">Jeff Beck: Live At The Hollywood Bowl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112223000 -0400" channel="BIS">
+    <title lang="pt">Faith No More: Live At Hellfest</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112223000 -0400" stop="20181112231500 -0400" channel="BIS">
+    <title lang="pt">SóTocaTop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112231500 -0400" stop="20181112234000 -0400" channel="BIS">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112234000 -0400" stop="20181113001000 -0400" channel="BIS">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113001000 -0400" stop="20181113010000 -0400" channel="BIS">
+    <title lang="pt">Hans Zimmer: Live In Prague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113020000 -0400" channel="BIS">
+    <title lang="pt">Bb King Soundstage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113030000 -0400" channel="BIS">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113033000 -0400" channel="BIS">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033000 -0400" stop="20181113040000 -0400" channel="BIS">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113043000 -0400" channel="BIS">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113050000 -0400" channel="BIS">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="BIS">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113070000 -0400" channel="BIS">
+    <title lang="pt">Front And Center Presents: Cindy Lauper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="BIS">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="BIS">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Pattie Boyd</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="BIS">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113093000 -0400" channel="BIS">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113100000 -0400" channel="BIS">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113110000 -0400" channel="BIS">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113113000 -0400" channel="BIS">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113113000 -0400" stop="20181113120000 -0400" channel="BIS">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113130000 -0400" channel="BIS">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113133000 -0400" channel="BIS">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">The Eagles</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113133000 -0400" stop="20181113150000 -0400" channel="BIS">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Olé Olé Olé! A Trip Across Latin America</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113153000 -0400" channel="BIS">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113160000 -0400" channel="BIS">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113170000 -0400" channel="BIS">
+    <title lang="pt">Front And Center Presents: Cindy Lauper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113180000 -0400" channel="BIS">
+    <title lang="pt">Live From Abbey Road</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113190000 -0400" channel="BIS">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113193000 -0400" channel="BIS">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113200000 -0400" channel="BIS">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113203000 -0400" channel="BIS">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113210000 -0400" channel="BIS">
+    <title lang="pt">Rock Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113220000 -0400" channel="BIS">
+    <title lang="pt">Clean Bandit Plays Baloise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113230000 -0400" channel="BIS">
+    <title lang="pt">Ellie Goulding Live At Benicassim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181114000000 -0400" channel="BIS">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="BIS">
+    <title lang="pt">British Summer Time Festival 2016 Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114020000 -0400" channel="BIS">
+    <title lang="pt">Live From The Artists</title>
+    <sub-title lang="pt">Hozier</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="BIS">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114040000 -0400" channel="BIS">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114043000 -0400" channel="BIS">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114043000 -0400" stop="20181114050000 -0400" channel="BIS">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Zz Top</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="BIS">
+    <title lang="pt">Hans Zimmer: Live In Prague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="BIS">
+    <title lang="pt">Bb King Soundstage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114080000 -0400" channel="BIS">
+    <title lang="pt">Front And Center Presents: Cindy Lauper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114090000 -0400" channel="BIS">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="BIS">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114113000 -0400" channel="BIS">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Olé Olé Olé! A Trip Across Latin America</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114113000 -0400" stop="20181114120000 -0400" channel="BIS">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114130000 -0400" channel="BIS">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114133000 -0400" channel="BIS">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133000 -0400" stop="20181114140000 -0400" channel="BIS">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="BIS">
+    <title lang="pt">Hans Zimmer: Live In Prague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114160000 -0400" channel="BIS">
+    <title lang="pt">Bb King Soundstage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114163000 -0400" channel="BIS">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163000 -0400" stop="20181114170000 -0400" channel="BIS">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Pattie Boyd</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114180000 -0400" channel="BIS">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114190000 -0400" channel="BIS">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114193000 -0400" channel="BIS">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114200000 -0400" channel="BIS">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114210000 -0400" channel="BIS">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181114220000 -0400" channel="BIS">
+    <title lang="pt">Deep Purple Live At Wacken</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114230000 -0400" channel="BIS">
+    <title lang="pt">Def Leppard: And There Will Be A Next Time</title>
+    <sub-title lang="pt">Live From Detroit</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181114233000 -0400" channel="BIS">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233000 -0400" stop="20181115000000 -0400" channel="BIS">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112010000 -0400" channel="BIS HD">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010000 -0400" stop="20181112020000 -0400" channel="BIS HD">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112033000 -0400" channel="BIS HD">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Olé Olé Olé! A Trip Across Latin America</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033000 -0400" stop="20181112040000 -0400" channel="BIS HD">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112050000 -0400" channel="BIS HD">
+    <title lang="pt">Live From Abbey Road</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="BIS HD">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112063000 -0400" channel="BIS HD">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112063000 -0400" stop="20181112070000 -0400" channel="BIS HD">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Zz Top</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112080000 -0400" channel="BIS HD">
+    <title lang="pt">Isle Of Wight 2014 Festival Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112090000 -0400" channel="BIS HD">
+    <title lang="pt">Live From Abbey Road</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 -0400" stop="20181112093000 -0400" channel="BIS HD">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">The Doors</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093000 -0400" stop="20181112100000 -0400" channel="BIS HD">
+    <title lang="pt">Rock Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112120000 -0400" channel="BIS HD">
+    <title lang="pt">Imagine: John Lennon 75th Birthday Concert</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112123000 -0400" channel="BIS HD">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123000 -0400" stop="20181112130000 -0400" channel="BIS HD">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Pattie Boyd</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112133000 -0400" channel="BIS HD">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Zz Top</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112133000 -0400" stop="20181112143000 -0400" channel="BIS HD">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112143000 -0400" stop="20181112150000 -0400" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112153000 -0400" channel="BIS HD">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112153000 -0400" stop="20181112160000 -0400" channel="BIS HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112170000 -0400" channel="BIS HD">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112180000 -0400" channel="BIS HD">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112190000 -0400" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112190000 -0400" stop="20181112193000 -0400" channel="BIS HD">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112203000 -0400" channel="BIS HD">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112210000 -0400" channel="BIS HD">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">The Eagles</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181112220000 -0400" channel="BIS HD">
+    <title lang="pt">Jeff Beck: Live At The Hollywood Bowl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112223000 -0400" channel="BIS HD">
+    <title lang="pt">Faith No More: Live At Hellfest</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112223000 -0400" stop="20181112231500 -0400" channel="BIS HD">
+    <title lang="pt">SóTocaTop</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112231500 -0400" stop="20181112234000 -0400" channel="BIS HD">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112234000 -0400" stop="20181113001000 -0400" channel="BIS HD">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113001000 -0400" stop="20181113010000 -0400" channel="BIS HD">
+    <title lang="pt">Hans Zimmer: Live In Prague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113020000 -0400" channel="BIS HD">
+    <title lang="pt">Bb King Soundstage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113030000 -0400" channel="BIS HD">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113033000 -0400" channel="BIS HD">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033000 -0400" stop="20181113040000 -0400" channel="BIS HD">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113043000 -0400" channel="BIS HD">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113050000 -0400" channel="BIS HD">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="BIS HD">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113070000 -0400" channel="BIS HD">
+    <title lang="pt">Front And Center Presents: Cindy Lauper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="BIS HD">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="BIS HD">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Pattie Boyd</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="BIS HD">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113093000 -0400" channel="BIS HD">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113100000 -0400" channel="BIS HD">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113110000 -0400" channel="BIS HD">
+    <title lang="pt">Jazz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113113000 -0400" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113113000 -0400" stop="20181113120000 -0400" channel="BIS HD">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113130000 -0400" channel="BIS HD">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113133000 -0400" channel="BIS HD">
+    <title lang="pt">Rock Legends</title>
+    <sub-title lang="pt">The Eagles</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113133000 -0400" stop="20181113150000 -0400" channel="BIS HD">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Olé Olé Olé! A Trip Across Latin America</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113153000 -0400" channel="BIS HD">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113160000 -0400" channel="BIS HD">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113170000 -0400" channel="BIS HD">
+    <title lang="pt">Front And Center Presents: Cindy Lauper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113180000 -0400" channel="BIS HD">
+    <title lang="pt">Live From Abbey Road</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113190000 -0400" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113193000 -0400" channel="BIS HD">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113200000 -0400" channel="BIS HD">
+    <title lang="pt">Stand Your Ground</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113203000 -0400" channel="BIS HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113210000 -0400" channel="BIS HD">
+    <title lang="pt">Rock Icons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113220000 -0400" channel="BIS HD">
+    <title lang="pt">Clean Bandit Plays Baloise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113230000 -0400" channel="BIS HD">
+    <title lang="pt">Ellie Goulding Live At Benicassim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181114000000 -0400" channel="BIS HD">
+    <title lang="pt">Experimente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="BIS HD">
+    <title lang="pt">British Summer Time Festival 2016 Highlights</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114020000 -0400" channel="BIS HD">
+    <title lang="pt">Live From The Artists</title>
+    <sub-title lang="pt">Hozier</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="BIS HD">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114040000 -0400" channel="BIS HD">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114043000 -0400" channel="BIS HD">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114043000 -0400" stop="20181114050000 -0400" channel="BIS HD">
+    <title lang="pt">Video Killed The Radio Star</title>
+    <sub-title lang="pt">Zz Top</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="BIS HD">
+    <title lang="pt">Hans Zimmer: Live In Prague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="BIS HD">
+    <title lang="pt">Bb King Soundstage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114080000 -0400" channel="BIS HD">
+    <title lang="pt">Front And Center Presents: Cindy Lauper</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114090000 -0400" channel="BIS HD">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="BIS HD">
+    <title lang="pt">Jazz @ Metropolis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114113000 -0400" channel="BIS HD">
+    <title lang="pt">The Rolling Stones</title>
+    <sub-title lang="pt">Olé Olé Olé! A Trip Across Latin America</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114113000 -0400" stop="20181114120000 -0400" channel="BIS HD">
+    <title lang="pt">Canto Só</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114130000 -0400" channel="BIS HD">
+    <title lang="pt">Front And Center Presents: Steve Vai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114133000 -0400" channel="BIS HD">
+    <title lang="pt">Álbum Musical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133000 -0400" stop="20181114140000 -0400" channel="BIS HD">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="BIS HD">
+    <title lang="pt">Hans Zimmer: Live In Prague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114160000 -0400" channel="BIS HD">
+    <title lang="pt">Bb King Soundstage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114163000 -0400" channel="BIS HD">
+    <title lang="pt">Samantha Canta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163000 -0400" stop="20181114170000 -0400" channel="BIS HD">
+    <title lang="pt">The Ronnie Wood Show</title>
+    <sub-title lang="pt">Pattie Boyd</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114180000 -0400" channel="BIS HD">
+    <title lang="pt">Later With Jools Holland</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114190000 -0400" channel="BIS HD">
+    <title lang="pt">Setlist</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114193000 -0400" channel="BIS HD">
+    <title lang="pt">Dance Paradise</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114200000 -0400" channel="BIS HD">
+    <title lang="pt">Vamos Tocar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114210000 -0400" channel="BIS HD">
+    <title lang="pt">Versões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181114220000 -0400" channel="BIS HD">
+    <title lang="pt">Deep Purple Live At Wacken</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114230000 -0400" channel="BIS HD">
+    <title lang="pt">Def Leppard: And There Will Be A Next Time</title>
+    <sub-title lang="pt">Live From Detroit</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181114233000 -0400" channel="BIS HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233000 -0400" stop="20181115000000 -0400" channel="BIS HD">
+    <title lang="pt">Lounge</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112010000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010000 -0400" stop="20181112020000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112023000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112023000 -0400" stop="20181112030000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112033000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show do Garfield</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033000 -0400" stop="20181112040000 -0400" channel="BOOMERANG">
+    <title lang="pt">Os Flintstones</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112042000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112042000 -0400" stop="20181112050000 -0400" channel="BOOMERANG">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112064500 -0400" channel="BOOMERANG">
+    <title lang="pt">Lazytown</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112064500 -0400" stop="20181112070000 -0400" channel="BOOMERANG">
+    <title lang="pt">Chowder</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112071000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112071000 -0400" stop="20181112080000 -0400" channel="BOOMERANG">
+    <title lang="pt">Dinotrem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112083000 -0400" channel="BOOMERANG">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112083000 -0400" stop="20181112090000 -0400" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 -0400" stop="20181112093000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093000 -0400" stop="20181112095500 -0400" channel="BOOMERANG">
+    <title lang="pt">Marcus Level</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112095500 -0400" stop="20181112100000 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112101500 -0400" channel="BOOMERANG">
+    <title lang="pt">Super 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112101500 -0400" stop="20181112103000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112103000 -0400" stop="20181112105500 -0400" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112105500 -0400" stop="20181112110000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 -0400" stop="20181112113000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112113000 -0400" stop="20181112120000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112131500 -0400" channel="BOOMERANG">
+    <title lang="pt">Cangurú Jack</title>
+    <sub-title lang="pt">Olá E.U.A.</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112131500 -0400" stop="20181112140000 -0400" channel="BOOMERANG">
+    <title lang="pt">Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112150000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112152500 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112152500 -0400" stop="20181112153000 -0400" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112153000 -0400" stop="20181112160000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112163000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112163000 -0400" stop="20181112170000 -0400" channel="BOOMERANG">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112171500 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112171500 -0400" stop="20181112173000 -0400" channel="BOOMERANG">
+    <title lang="pt">Meu Cavaleiro e Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173000 -0400" stop="20181112174000 -0400" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112174000 -0400" stop="20181112174500 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112174500 -0400" stop="20181112180000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112181500 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112181500 -0400" stop="20181112183000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112183000 -0400" stop="20181112184500 -0400" channel="BOOMERANG">
+    <title lang="pt">Corrida Maluca (2017)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112184500 -0400" stop="20181112190000 -0400" channel="BOOMERANG">
+    <title lang="pt">Dorothy e o Mágico de Oz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112190000 -0400" stop="20181112191500 -0400" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112191500 -0400" stop="20181112192500 -0400" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112192500 -0400" stop="20181112193000 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112195500 -0400" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112195500 -0400" stop="20181112200000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112210000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181112213000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112213000 -0400" stop="20181112214500 -0400" channel="BOOMERANG">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112214500 -0400" stop="20181112220000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show do Garfield</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112223000 -0400" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112223000 -0400" stop="20181112230000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230000 -0400" stop="20181112231500 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112231500 -0400" stop="20181112234000 -0400" channel="BOOMERANG">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112234000 -0400" stop="20181113000000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Que Há de Novo Scooby-Doo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113020000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113023000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113023000 -0400" stop="20181113030000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113033000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show do Garfield</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033000 -0400" stop="20181113040000 -0400" channel="BOOMERANG">
+    <title lang="pt">Os Flintstones</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113042000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113042000 -0400" stop="20181113050000 -0400" channel="BOOMERANG">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113064500 -0400" channel="BOOMERANG">
+    <title lang="pt">Lazytown</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064500 -0400" stop="20181113070000 -0400" channel="BOOMERANG">
+    <title lang="pt">Chowder</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113071000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113071000 -0400" stop="20181113080000 -0400" channel="BOOMERANG">
+    <title lang="pt">Dinotrem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="BOOMERANG">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113093000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113095500 -0400" channel="BOOMERANG">
+    <title lang="pt">Marcus Level</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113095500 -0400" stop="20181113100000 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113101500 -0400" channel="BOOMERANG">
+    <title lang="pt">Super 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113101500 -0400" stop="20181113103000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113105500 -0400" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113105500 -0400" stop="20181113110000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113113000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113113000 -0400" stop="20181113120000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113132000 -0400" channel="BOOMERANG">
+    <title lang="pt">Balto 2: Aventura na Terra do Gelo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113132000 -0400" stop="20181113140000 -0400" channel="BOOMERANG">
+    <title lang="pt">Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113150000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113152500 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113152500 -0400" stop="20181113153000 -0400" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113160000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113163000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163000 -0400" stop="20181113170000 -0400" channel="BOOMERANG">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113171500 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113171500 -0400" stop="20181113173000 -0400" channel="BOOMERANG">
+    <title lang="pt">Meu Cavaleiro e Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113174000 -0400" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113174000 -0400" stop="20181113174500 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113174500 -0400" stop="20181113180000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113181500 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113181500 -0400" stop="20181113183000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113183000 -0400" stop="20181113190000 -0400" channel="BOOMERANG">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113191500 -0400" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113191500 -0400" stop="20181113192500 -0400" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113192500 -0400" stop="20181113193000 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113195500 -0400" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113195500 -0400" stop="20181113200000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113210000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113213000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113214500 -0400" channel="BOOMERANG">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113214500 -0400" stop="20181113220000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show do Garfield</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113223000 -0400" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223000 -0400" stop="20181113230000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181113231500 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113231500 -0400" stop="20181113234000 -0400" channel="BOOMERANG">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113234000 -0400" stop="20181114000000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Que Há de Novo Scooby-Doo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114020000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114023000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114023000 -0400" stop="20181114030000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114033000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show do Garfield</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114033000 -0400" stop="20181114040000 -0400" channel="BOOMERANG">
+    <title lang="pt">Os Flintstones</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114042000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114042000 -0400" stop="20181114050000 -0400" channel="BOOMERANG">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114064500 -0400" channel="BOOMERANG">
+    <title lang="pt">Lazytown</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064500 -0400" stop="20181114070000 -0400" channel="BOOMERANG">
+    <title lang="pt">Chowder</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114071000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114071000 -0400" stop="20181114080000 -0400" channel="BOOMERANG">
+    <title lang="pt">Dinotrem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114083000 -0400" channel="BOOMERANG">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114090000 -0400" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114093000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093000 -0400" stop="20181114095500 -0400" channel="BOOMERANG">
+    <title lang="pt">Marcus Level</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114095500 -0400" stop="20181114100000 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114101500 -0400" channel="BOOMERANG">
+    <title lang="pt">Super 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114101500 -0400" stop="20181114103000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114105500 -0400" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114105500 -0400" stop="20181114110000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114113000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114113000 -0400" stop="20181114120000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114132000 -0400" channel="BOOMERANG">
+    <title lang="pt">Balto 3: Nas Asas do Destino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114132000 -0400" stop="20181114140000 -0400" channel="BOOMERANG">
+    <title lang="pt">Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114152500 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show dos Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114152500 -0400" stop="20181114153000 -0400" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114160000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114163000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163000 -0400" stop="20181114170000 -0400" channel="BOOMERANG">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114171500 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114171500 -0400" stop="20181114173000 -0400" channel="BOOMERANG">
+    <title lang="pt">Meu Cavaleiro e Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114174000 -0400" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114174000 -0400" stop="20181114174500 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114174500 -0400" stop="20181114180000 -0400" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114181500 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114181500 -0400" stop="20181114183000 -0400" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <sub-title lang="pt">A Série</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114183000 -0400" stop="20181114190000 -0400" channel="BOOMERANG">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114191500 -0400" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114191500 -0400" stop="20181114192500 -0400" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114192500 -0400" stop="20181114193000 -0400" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114195500 -0400" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114195500 -0400" stop="20181114200000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114210000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181114213000 -0400" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114214500 -0400" channel="BOOMERANG">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214500 -0400" stop="20181114220000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Show do Garfield</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114223000 -0400" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223000 -0400" stop="20181114230000 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181114231500 -0400" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114231500 -0400" stop="20181114234000 -0400" channel="BOOMERANG">
+    <title lang="pt">Scooby-Doo! Mistério S/A</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114234000 -0400" stop="20181115000000 -0400" channel="BOOMERANG">
+    <title lang="pt">O Que Há de Novo Scooby-Doo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112001500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Angeli</title>
+    <sub-title lang="pt">The Killer</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112001500 -0400" stop="20181112015500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">O Céu de Suely</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112015500 -0400" stop="20181112034000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Cidade Baixa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112034000 -0400" stop="20181112051000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Estranha Hospedaria dos Prazeres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112051000 -0400" stop="20181112070000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Muda Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112073000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Poltrona 27</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112073000 -0400" stop="20181112084500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Memória Cubana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112084500 -0400" stop="20181112101500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Paraíba, Vida e Morte de um Bandido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112101500 -0400" stop="20181112120000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Repartição do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112123000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Xingu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123000 -0400" stop="20181112130000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">De Semelhanças e Coincidências</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112133000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">O Som do Vinil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112133000 -0400" stop="20181112145000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Meu Nome é Jacque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112145000 -0400" stop="20181112170000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">O Beijo da Mulher-Aranha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112173000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Mpb 73</title>
+    <sub-title lang="pt">O Ano da Reinvenção: Censura e Resistência</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173000 -0400" stop="20181112174600 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: O Pequeno Pé Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112174600 -0400" stop="20181112180000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Palloma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112193500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Grande Feira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193500 -0400" stop="20181112213000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Praça Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112213000 -0400" stop="20181112220000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112233000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">É Tudo Verdade: O Cinema Foi à Feira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112233000 -0400" stop="20181113000000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Aceito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113001500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Eletrogordo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113001500 -0400" stop="20181113014000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Nelson 90 Graus: Mandacaru Vermelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113014000 -0400" stop="20181113020000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Pornolândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113034500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Cone Sul: Villegas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113034500 -0400" stop="20181113040000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Angeli</title>
+    <sub-title lang="pt">The Killer</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113043000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Amor de 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113052000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Fim do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113052000 -0400" stop="20181113070000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Orestes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Chico Xavier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Eletrogordo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083500 -0400" stop="20181113084900 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: O Fim do Verão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113084900 -0400" stop="20181113090500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Insight</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090500 -0400" stop="20181113104500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Martírio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113104500 -0400" stop="20181113120000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Martírio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113121700 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: O Dia Que Ele Decidiu Sair</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113121700 -0400" stop="20181113123000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: O Bom Repórter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123000 -0400" stop="20181113124600 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: O Pequeno Pé Grande</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113124600 -0400" stop="20181113130000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Palloma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113133000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113133000 -0400" stop="20181113144500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Mostra Cinefoot: Santo Marcos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113144500 -0400" stop="20181113151000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Mostra Cinefoot: Mann Of The Match</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113151000 -0400" stop="20181113152500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Bloody Boomerang</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113152500 -0400" stop="20181113153500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: O Perdão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153500 -0400" stop="20181113173000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Rock Brasília</title>
+    <sub-title lang="pt">Era de Ouro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113180000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Bajado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113190000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Leny, A Fabulosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113204500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Amores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113204500 -0400" stop="20181113210000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Na Roda do Samba: Samba de Buteco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113213000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Aceito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113220000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Amigos, Sons e Palavras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113234000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Seleção Brasileira: Querida Mamãe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113234000 -0400" stop="20181114000000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Caçador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114001500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Transando Com Laerte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114001500 -0400" stop="20181114020500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Como Nossos Pais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020500 -0400" stop="20181114042000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Cinemão: Lamarca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114042000 -0400" stop="20181114054500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Santa Donzela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114054500 -0400" stop="20181114070000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">O Jabuti e a Anta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114082500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Luta do Século</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114082500 -0400" stop="20181114101500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Repartição do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114101500 -0400" stop="20181114120000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Califórnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114123000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Bajado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123000 -0400" stop="20181114130000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Caçador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114133000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Amigos, Sons e Palavras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133000 -0400" stop="20181114145000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">É Tudo Verdade: O Cinema Foi à Feira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114145000 -0400" stop="20181114163000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Grande Feira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163000 -0400" stop="20181114173000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Leny, A Fabulosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114180000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Aceito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114182500 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Poltrona 27</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114182500 -0400" stop="20181114192000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Ecovilas Brasil</title>
+    <sub-title lang="pt">Caminhando pela Sustentabilidade do Ser</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114192000 -0400" stop="20181114213000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Lamarca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114220000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">A Arte do Encontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181115000000 -0400" channel="CANAL BRASIL">
+    <title lang="pt">Canção da Volta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
