@@ -10,7 +10,7 @@
   </channel>
   <channel id="AMC">
     <display-name lang="pt">AMC</display-name>
-    <icon src="http://www.lineup.tv.br/canais/hbosignature.gif" />
+    <icon src="http://www.lineup.tv.br/canais/cancaonovatv.gif|http://www.lineup.tv.br/canais/cancaonova.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="ANIMAL PLANET">
@@ -23,7 +23,7 @@
   </channel>
   <channel id="ARTE1">
     <display-name lang="pt">ARTE1</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvantares.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <icon src="http://www.lineup.tv.br/canais/discoverykids.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="ARTE1 HD">
@@ -44,12 +44,12 @@
   </channel>
   <channel id="BABY TV HD">
     <display-name lang="pt">BABY TV HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/foxnews.gif" />
+    <icon src="http://www.lineup.tv.br/canais/bandnews.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Band Campinas">
     <display-name lang="pt">Band Campinas</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvcidade-guarapuava.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvsalvador.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="BAND NEWS">
@@ -58,7 +58,7 @@
   </channel>
   <channel id="BAND NEWS HD">
     <display-name lang="pt">BAND NEWS HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvsetorial.gif|http://www.lineup.tv.br/canais/tvnovotempo.gif" />
+    <icon src="http://www.lineup.tv.br/canais/nsctv.gif|http://www.lineup.tv.br/canais/globo.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="BAND SP">
@@ -87,11 +87,46 @@
   </channel>
   <channel id="BOOMERANG HD">
     <display-name lang="pt">BOOMERANG HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvmiramar.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvintegracao.gif|http://www.lineup.tv.br/canais/globo.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CANAL BRASIL">
     <display-name lang="pt">CANAL BRASIL</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CANAL SONY">
+    <display-name lang="pt">CANAL SONY</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cnt2.gif|http://www.lineup.tv.br/canais/cnt.gif|http://www.lineup.tv.br/canais/tvuniversal.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANAL SONY HD">
+    <display-name lang="pt">CANAL SONY HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="CANÇÃO NOVA">
+    <display-name lang="pt">CANÇÃO NOVA</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name lang="pt">CARTOON NETWORK HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/rbitv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="pt">CINEMAX</display-name>
+    <icon src="http://www.lineup.tv.br/canais/dogtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="pt">CINEMAX HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <programme start="20181112004000 -0400" stop="20181112010500 -0400" channel="A&amp;E">
@@ -7883,6 +7918,3044 @@
   </programme>
   <programme start="20181114220000 -0400" stop="20181115000000 -0400" channel="CANAL BRASIL">
     <title lang="pt">Canção da Volta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112030000 -0400" channel="Canal Rural">
+    <title lang="pt">Televendas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112060000 -0400" channel="Canal Rural">
+    <title lang="pt">TV Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112063000 -0400" channel="Canal Rural">
+    <title lang="pt">Resenha do Cooperativismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112063000 -0400" stop="20181112070000 -0400" channel="Canal Rural">
+    <title lang="pt">Técnica Rural</title>
+    <sub-title lang="pt">Milho</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112080000 -0400" channel="Canal Rural">
+    <title lang="pt">Giro do Boi</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112100000 -0400" channel="Canal Rural">
+    <title lang="pt">Balcão Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112110000 -0400" channel="Canal Rural">
+    <title lang="pt">Amigo Pecuarista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 -0400" stop="20181112120000 -0400" channel="Canal Rural">
+    <title lang="pt">Cavalo Crioulo Sem Fronteiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112120500 -0400" channel="Canal Rural">
+    <title lang="pt">Boletim Giro Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120500 -0400" stop="20181112121200 -0400" channel="Canal Rural">
+    <title lang="pt">Técnica Rural</title>
+    <sub-title lang="pt">Marcas Upl Unizeb Gold</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112121200 -0400" stop="20181112123500 -0400" channel="Canal Rural">
+    <title lang="pt">Agrosomar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123500 -0400" stop="20181112140000 -0400" channel="Canal Rural">
+    <title lang="pt">Mercado &amp; Cia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112143000 -0400" channel="Canal Rural">
+    <title lang="pt">Conexão Agro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112143000 -0400" stop="20181112163500 -0400" channel="Canal Rural">
+    <title lang="pt">Televendas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112163500 -0400" stop="20181112183500 -0400" channel="Canal Rural">
+    <title lang="pt">Amigo Pecuarista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112183500 -0400" stop="20181112184800 -0400" channel="Canal Rural">
+    <title lang="pt">Horse Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112184800 -0400" stop="20181112200000 -0400" channel="Canal Rural">
+    <title lang="pt">Rural Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112200500 -0400" channel="Canal Rural">
+    <title lang="pt">Boletim Giro Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200500 -0400" stop="20181112203000 -0400" channel="Canal Rural">
+    <title lang="pt">Jornal da Pecuária</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112204500 -0400" channel="Canal Rural">
+    <title lang="pt">Rota do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112204500 -0400" stop="20181112210000 -0400" channel="Canal Rural">
+    <title lang="pt">Pecuária em Foco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181113010000 -0400" channel="Canal Rural">
+    <title lang="pt">Leilão Virtual Touros Brahman</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113030000 -0400" channel="Canal Rural">
+    <title lang="pt">Televendas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113060000 -0400" channel="Canal Rural">
+    <title lang="pt">TV Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113063000 -0400" channel="Canal Rural">
+    <title lang="pt">Resenha do Cooperativismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113070000 -0400" channel="Canal Rural">
+    <title lang="pt">Técnica Rural</title>
+    <sub-title lang="pt">Soja</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="Canal Rural">
+    <title lang="pt">Giro do Boi</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113100000 -0400" channel="Canal Rural">
+    <title lang="pt">Balcão Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113110000 -0400" channel="Canal Rural">
+    <title lang="pt">Amigo Pecuarista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113120000 -0400" channel="Canal Rural">
+    <title lang="pt">Mangalarga Marchador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113120500 -0400" channel="Canal Rural">
+    <title lang="pt">Boletim Giro Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120500 -0400" stop="20181113123500 -0400" channel="Canal Rural">
+    <title lang="pt">Agrosomar</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123500 -0400" stop="20181113140000 -0400" channel="Canal Rural">
+    <title lang="pt">Mercado &amp; Cia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113143000 -0400" channel="Canal Rural">
+    <title lang="pt">Direto ao Ponto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113143000 -0400" stop="20181113163500 -0400" channel="Canal Rural">
+    <title lang="pt">Televendas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163500 -0400" stop="20181113183500 -0400" channel="Canal Rural">
+    <title lang="pt">Amigo Pecuarista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113183500 -0400" stop="20181113184800 -0400" channel="Canal Rural">
+    <title lang="pt">Horse Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184800 -0400" stop="20181113200000 -0400" channel="Canal Rural">
+    <title lang="pt">Rural Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113200500 -0400" channel="Canal Rural">
+    <title lang="pt">Boletim Giro Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200500 -0400" stop="20181113203000 -0400" channel="Canal Rural">
+    <title lang="pt">Jornal da Pecuária</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113204500 -0400" channel="Canal Rural">
+    <title lang="pt">Fala, Carlão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113204500 -0400" stop="20181113210000 -0400" channel="Canal Rural">
+    <title lang="pt">Pecuária em Foco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181114010000 -0400" channel="Canal Rural">
+    <title lang="pt">Leilão Virtual Fazenda Confiança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114030000 -0400" channel="Canal Rural">
+    <title lang="pt">Televendas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114060000 -0400" channel="Canal Rural">
+    <title lang="pt">TV Verdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114063000 -0400" channel="Canal Rural">
+    <title lang="pt">Resenha do Cooperativismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063000 -0400" stop="20181114070000 -0400" channel="Canal Rural">
+    <title lang="pt">Técnica Rural</title>
+    <sub-title lang="pt">Milho</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114080000 -0400" channel="Canal Rural">
+    <title lang="pt">Giro do Boi</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114081500 -0400" channel="Canal Rural">
+    <title lang="pt">Balcão Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114081500 -0400" stop="20181114084500 -0400" channel="Canal Rural">
+    <title lang="pt">Bom Dia Senar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114084500 -0400" stop="20181114100000 -0400" channel="Canal Rural">
+    <title lang="pt">Balcão Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114110000 -0400" channel="Canal Rural">
+    <title lang="pt">Amigo Pecuarista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114120000 -0400" channel="Canal Rural">
+    <title lang="pt">TVQM</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114120500 -0400" channel="Canal Rural">
+    <title lang="pt">Boletim Giro Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120500 -0400" stop="20181114121200 -0400" channel="Canal Rural">
+    <title lang="pt">Técnica Rural</title>
+    <sub-title lang="pt">Marcas Upl Unizeb Gold</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114121200 -0400" stop="20181114123500 -0400" channel="Canal Rural">
+    <title lang="pt">Agrosomar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123500 -0400" stop="20181114140000 -0400" channel="Canal Rural">
+    <title lang="pt">Mercado &amp; Cia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114143000 -0400" channel="Canal Rural">
+    <title lang="pt">Marcas e Máquinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114143000 -0400" stop="20181114163500 -0400" channel="Canal Rural">
+    <title lang="pt">Televendas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163500 -0400" stop="20181114183500 -0400" channel="Canal Rural">
+    <title lang="pt">Amigo Pecuarista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114183500 -0400" stop="20181114184800 -0400" channel="Canal Rural">
+    <title lang="pt">Horse Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184800 -0400" stop="20181114200000 -0400" channel="Canal Rural">
+    <title lang="pt">Rural Notícias</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114200500 -0400" channel="Canal Rural">
+    <title lang="pt">Boletim Giro Do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200500 -0400" stop="20181114203000 -0400" channel="Canal Rural">
+    <title lang="pt">Jornal da Pecuária</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114204500 -0400" channel="Canal Rural">
+    <title lang="pt">Rota do Boi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114204500 -0400" stop="20181114210000 -0400" channel="Canal Rural">
+    <title lang="pt">Pecuária em Foco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181115003000 -0400" channel="Canal Rural">
+    <title lang="pt">Leilão Virtual Maje</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112010000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <sub-title lang="pt">Pe. Rufus</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010000 -0400" stop="20181112020000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Direção Espiritual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112030000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Procissão Das Luzes Na Basílica da Anunciação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112033000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Terço da Misericórdia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033000 -0400" stop="20181112040000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112050000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Além da Notícia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112063300 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santo Terço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112063300 -0400" stop="20181112064000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112064000 -0400" stop="20181112070000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Salmos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112074700 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santa Missa do Santuário Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112074700 -0400" stop="20181112080000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112093000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093000 -0400" stop="20181112100000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Manhã Viva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112120000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Especial de Campanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112122000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Angelus</title>
+    <sub-title lang="pt">Papa Francisco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112122000 -0400" stop="20181112123300 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Discípulos e Missionários</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123300 -0400" stop="20181112130000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Mais Saúde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112140000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Mons Jonas Abib</title>
+    <sub-title lang="pt">Nossa Missão É Evangelizar</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112144700 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Juntos Somos Mais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112144700 -0400" stop="20181112150000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112153000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Terço da Misericórdia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112153000 -0400" stop="20181112170000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santa Missa pelas Famílias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112172800 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Cantinho da Criança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112172800 -0400" stop="20181112173000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Flash do Jornalismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173000 -0400" stop="20181112175000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112175000 -0400" stop="20181112183000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santo Terço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112183000 -0400" stop="20181112183800 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Boletim Projeto Daí-me-almas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112183800 -0400" stop="20181112184500 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Caminhos de Unidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112184500 -0400" stop="20181112193000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Canção Nova Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112210000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santa Missa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181113000000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Especial de Campanha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">O Amor Vencerá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113020000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Nosso Canto Nosso Chão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113030000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Canção Nova Sertaneja</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113033000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Terço da Misericórdia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033000 -0400" stop="20181113040000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113041500 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113041500 -0400" stop="20181113050000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Canção Nova Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113063300 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santo Terço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063300 -0400" stop="20181113064000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064000 -0400" stop="20181113070000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Salmos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113074700 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santa Missa do Santuário Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113074700 -0400" stop="20181113080000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113093000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113110000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Manhã Viva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113120000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">O Amor Vencerá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113130000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Trocando Ideias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113140000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <sub-title lang="pt">Pe. Fabio de Melo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113144700 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Juntos Somos Mais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113144700 -0400" stop="20181113150000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113153000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Terço da Misericórdia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113160000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113163000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Terra Santa News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163000 -0400" stop="20181113170000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Fazendo Esperança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113172800 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Cantinho da Criança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113172800 -0400" stop="20181113173000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Flash do Jornalismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113175000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113175000 -0400" stop="20181113183000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santo Terço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113183000 -0400" stop="20181113183800 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Parabolas de Corações Especiais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113183800 -0400" stop="20181113184500 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Caminhos de Unidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184500 -0400" stop="20181113193000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Canção Nova Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113200000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Na Escola de Nazaré</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113210000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santa Missa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113220000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Para Ser Feliz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113233000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">PHN</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113233000 -0400" stop="20181114003000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114003000 -0400" stop="20181114013000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">O Amor Vencerá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114013000 -0400" stop="20181114020000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Mais Saúde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Minha Família é Assim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114033000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Terço da Misericórdia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114033000 -0400" stop="20181114040000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114041500 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114041500 -0400" stop="20181114050000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Canção Nova Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114063300 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santo Terço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063300 -0400" stop="20181114064000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064000 -0400" stop="20181114070000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Salmos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114074700 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santa Missa do Santuário Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114074700 -0400" stop="20181114080000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114093000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093000 -0400" stop="20181114110000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Manhã Viva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114120000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">O Amor Vencerá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114130000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Catequese</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114140000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114144700 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Juntos Somos Mais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114144700 -0400" stop="20181114150000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pai das Misericórdias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114153000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Terço da Misericórdia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114160000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114170000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Pergunte e Responderemos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114172800 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Cantinho da Criança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114172800 -0400" stop="20181114173000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Flash do Jornalismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114175000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114175000 -0400" stop="20181114183000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santo Terço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114183000 -0400" stop="20181114183800 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Especial São Francisco de Assis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114183800 -0400" stop="20181114184500 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Caminhos de Unidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184500 -0400" stop="20181114193000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Canção Nova Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114200000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Deus Proverá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114220000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Santa Missa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114230000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Direção Espiritual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181115000000 -0400" channel="CANÇÃO NOVA">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000000 -0400" stop="20181112002900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112002900 -0400" stop="20181112005900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112005900 -0400" stop="20181112012900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112012900 -0400" stop="20181112015800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112015800 -0400" stop="20181112020000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112021200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112021200 -0400" stop="20181112023000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112023000 -0400" stop="20181112024100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112024100 -0400" stop="20181112025900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112025900 -0400" stop="20181112030000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112031200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112031200 -0400" stop="20181112033000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033000 -0400" stop="20181112034100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112034100 -0400" stop="20181112035900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112035900 -0400" stop="20181112040000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112040700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Johnny Bravo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040700 -0400" stop="20181112042000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Johnny Bravo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112042000 -0400" stop="20181112043000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Du, Dudu e Edu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112043000 -0400" stop="20181112044800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112044800 -0400" stop="20181112050000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112051800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112051800 -0400" stop="20181112053000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112053000 -0400" stop="20181112054100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112054100 -0400" stop="20181112055800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112055800 -0400" stop="20181112060000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112063000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112063000 -0400" stop="20181112063800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112063800 -0400" stop="20181112065200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112065200 -0400" stop="20181112070000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112071000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112071000 -0400" stop="20181112071500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112071500 -0400" stop="20181112072000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112072000 -0400" stop="20181112073000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112073000 -0400" stop="20181112074100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112074100 -0400" stop="20181112075900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112075900 -0400" stop="20181112080000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112081800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112081800 -0400" stop="20181112083000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112083000 -0400" stop="20181112084800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112084800 -0400" stop="20181112090000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 -0400" stop="20181112091100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112091100 -0400" stop="20181112092900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112092900 -0400" stop="20181112093000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093000 -0400" stop="20181112094800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112094800 -0400" stop="20181112100000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112100900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100900 -0400" stop="20181112102200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112102200 -0400" stop="20181112103000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112103000 -0400" stop="20181112104800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112104800 -0400" stop="20181112110000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 -0400" stop="20181112111500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112111500 -0400" stop="20181112113000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112113000 -0400" stop="20181112114100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112114100 -0400" stop="20181112114500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112114500 -0400" stop="20181112120000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Outra Semana no Cartoon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112121700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112121700 -0400" stop="20181112123000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123000 -0400" stop="20181112133000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112133000 -0400" stop="20181112134100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112134100 -0400" stop="20181112135900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112135900 -0400" stop="20181112140000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112143000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112143000 -0400" stop="20181112144800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112144800 -0400" stop="20181112150000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112153000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Captain Tsubasa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112153000 -0400" stop="20181112160000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112163000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Pokémon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112163000 -0400" stop="20181112170000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Cine Cartoon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112171800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112171800 -0400" stop="20181112173000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173000 -0400" stop="20181112174700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112174700 -0400" stop="20181112180000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112181500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112181500 -0400" stop="20181112183000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112183000 -0400" stop="20181112184100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112184100 -0400" stop="20181112185900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112185900 -0400" stop="20181112190000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112190000 -0400" stop="20181112191500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112191500 -0400" stop="20181112193000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193000 -0400" stop="20181112194500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112194500 -0400" stop="20181112200000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112201500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Mundo de Greg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112201500 -0400" stop="20181112203000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112204500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112204500 -0400" stop="20181112210000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Outra Semana no Cartoon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181112211500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112211500 -0400" stop="20181112213000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">OK, K.O.! Vamos Ser Heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112213000 -0400" stop="20181112214800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112214800 -0400" stop="20181112220000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112230000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230000 -0400" stop="20181112233000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112233000 -0400" stop="20181113000000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113001200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113001200 -0400" stop="20181113003000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003000 -0400" stop="20181113004100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113004100 -0400" stop="20181113005900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113005900 -0400" stop="20181113010000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113011100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113011100 -0400" stop="20181113012800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113012800 -0400" stop="20181113013900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113013900 -0400" stop="20181113015800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113015800 -0400" stop="20181113020000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113021100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113021100 -0400" stop="20181113022900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113022900 -0400" stop="20181113024100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113024100 -0400" stop="20181113025900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113025900 -0400" stop="20181113030000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113031200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031200 -0400" stop="20181113032900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113032900 -0400" stop="20181113034100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113034100 -0400" stop="20181113035800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113035800 -0400" stop="20181113040000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113040700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Johnny Bravo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040700 -0400" stop="20181113042000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Johnny Bravo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113042000 -0400" stop="20181113043000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Du, Dudu e Edu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113044800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113044800 -0400" stop="20181113050000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113051700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113051700 -0400" stop="20181113053000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113053000 -0400" stop="20181113054100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113054100 -0400" stop="20181113055800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113055800 -0400" stop="20181113060000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113063000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113063800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063800 -0400" stop="20181113065200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113065200 -0400" stop="20181113065900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113065900 -0400" stop="20181113070000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113071000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113071000 -0400" stop="20181113071500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113071500 -0400" stop="20181113072000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113072000 -0400" stop="20181113073000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113074100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113074100 -0400" stop="20181113075900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113075900 -0400" stop="20181113080000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113081800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113081800 -0400" stop="20181113083000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113084800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113084800 -0400" stop="20181113090000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113091200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113091200 -0400" stop="20181113092900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113092900 -0400" stop="20181113093000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113094800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113094800 -0400" stop="20181113100000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113100800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100800 -0400" stop="20181113102100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113102100 -0400" stop="20181113103000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113104800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113104800 -0400" stop="20181113110000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113111500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113111500 -0400" stop="20181113113000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113113000 -0400" stop="20181113114800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113114800 -0400" stop="20181113120000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113121800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113121800 -0400" stop="20181113123000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123000 -0400" stop="20181113124800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Unigata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113124800 -0400" stop="20181113130600 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Acampamento de Verão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130600 -0400" stop="20181113131700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113131700 -0400" stop="20181113133000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113133000 -0400" stop="20181113134200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113134200 -0400" stop="20181113140000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113141500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113141500 -0400" stop="20181113143000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113143000 -0400" stop="20181113144800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113144800 -0400" stop="20181113150000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113153000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Captain Tsubasa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113160000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113163000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Pokémon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163000 -0400" stop="20181113164700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Transformers</title>
+    <sub-title lang="pt">Cyberverse</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113164700 -0400" stop="20181113170000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Transformers</title>
+    <sub-title lang="pt">Cyberverse</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113171800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113171800 -0400" stop="20181113173000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113174500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113174500 -0400" stop="20181113180000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Outra Semana no Cartoon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113181500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113181500 -0400" stop="20181113183000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113183000 -0400" stop="20181113184100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184100 -0400" stop="20181113185900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113185900 -0400" stop="20181113190000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113191500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113191500 -0400" stop="20181113193000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113194800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113194800 -0400" stop="20181113200000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113214500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coraline e o Mundo Secreto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113214500 -0400" stop="20181113215700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113215700 -0400" stop="20181113220000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113221800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Unigata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113221800 -0400" stop="20181113223600 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Acampamento de Verão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223600 -0400" stop="20181113224700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113224700 -0400" stop="20181113230000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Apenas um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181113233000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113233000 -0400" stop="20181114000000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114001200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114001200 -0400" stop="20181114003000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114003000 -0400" stop="20181114004100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114004100 -0400" stop="20181114005900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114005900 -0400" stop="20181114010000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114011100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114011100 -0400" stop="20181114012800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114012800 -0400" stop="20181114014000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114014000 -0400" stop="20181114015800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114015800 -0400" stop="20181114020000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Hora de Aventura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114021100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114021100 -0400" stop="20181114024100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024100 -0400" stop="20181114025900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114025900 -0400" stop="20181114030000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114031000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114031000 -0400" stop="20181114031100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114031100 -0400" stop="20181114032900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114032900 -0400" stop="20181114034000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114034000 -0400" stop="20181114035800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114035800 -0400" stop="20181114040000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114040700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Johnny Bravo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040700 -0400" stop="20181114042000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Johnny Bravo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114042000 -0400" stop="20181114043000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Du, Dudu e Edu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114043000 -0400" stop="20181114044800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114044800 -0400" stop="20181114050000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Andy e seu Esquilo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114051800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114051800 -0400" stop="20181114053000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Trapalhadas de Flapjack</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114053000 -0400" stop="20181114054100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114054100 -0400" stop="20181114055800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114055800 -0400" stop="20181114060000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114063000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063000 -0400" stop="20181114063800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063800 -0400" stop="20181114065200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114065200 -0400" stop="20181114065900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114065900 -0400" stop="20181114070000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Show de Tom &amp; Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114071000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114071000 -0400" stop="20181114071500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114071500 -0400" stop="20181114072000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114072000 -0400" stop="20181114073000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114074100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114074100 -0400" stop="20181114075900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114075900 -0400" stop="20181114080000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114081800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114081800 -0400" stop="20181114083000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114084800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114084800 -0400" stop="20181114090000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114091200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114091200 -0400" stop="20181114092900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114092900 -0400" stop="20181114093000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093000 -0400" stop="20181114094800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114094800 -0400" stop="20181114100000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114100700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100700 -0400" stop="20181114102100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114102100 -0400" stop="20181114103000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114104800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114104800 -0400" stop="20181114110000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114111500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114111500 -0400" stop="20181114113000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114113000 -0400" stop="20181114114100 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114114100 -0400" stop="20181114114500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114114500 -0400" stop="20181114120000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Outra Semana no Cartoon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114121700 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114121700 -0400" stop="20181114123000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123000 -0400" stop="20181114124000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114124000 -0400" stop="20181114125800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114125800 -0400" stop="20181114131600 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114131600 -0400" stop="20181114133000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133000 -0400" stop="20181114134200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114134200 -0400" stop="20181114135900 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114135900 -0400" stop="20181114140000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114141500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114141500 -0400" stop="20181114143000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114143000 -0400" stop="20181114144800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114144800 -0400" stop="20181114150000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114153000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Captain Tsubasa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114160000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114163000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Pokémon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163000 -0400" stop="20181114170000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Screechers Wild</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114171800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114171800 -0400" stop="20181114173000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114174800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114174800 -0400" stop="20181114180000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114181500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Irmão do Jorel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114181500 -0400" stop="20181114183000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Oswaldo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114183000 -0400" stop="20181114184200 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184200 -0400" stop="20181114190000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Ursos Sem Curso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114191500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Steven Universe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114191500 -0400" stop="20181114193000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Apenas Um Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114194800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114194800 -0400" stop="20181114200000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114214500 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Segredo Além do Jardim</title>
+    <sub-title lang="pt">O Filme</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214500 -0400" stop="20181114215600 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114215600 -0400" stop="20181114220000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Maçã e Cebola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114221000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114221000 -0400" stop="20181114222800 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">O Incrível Mundo de Gumball</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114222800 -0400" stop="20181114224600 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Clarêncio, o Otimista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114224600 -0400" stop="20181114230000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Titio Avô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181114233000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Super</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233000 -0400" stop="20181115000000 -0400" channel="CARTOON NETWORK">
+    <title lang="pt">Dragon Ball Z Kai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112003100 -0400" stop="20181112025300 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Grande Herói</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112025300 -0400" stop="20181112043700 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Idiota do Meu Irmão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112043700 -0400" stop="20181112064500 -0400" channel="CINEMAX HD">
+    <title lang="pt">Dave</title>
+    <sub-title lang="pt">Presidente por um Dia</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112064500 -0400" stop="20181112083700 -0400" channel="CINEMAX HD">
+    <title lang="pt">Meu Querido Vira-Lata</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112083700 -0400" stop="20181112102400 -0400" channel="CINEMAX HD">
+    <title lang="pt">Os Perdedores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112102400 -0400" stop="20181112122700 -0400" channel="CINEMAX HD">
+    <title lang="pt">Mad Max: Além da Cúpula do Trovão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112122700 -0400" stop="20181112142500 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Pacto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112142500 -0400" stop="20181112163200 -0400" channel="CINEMAX HD">
+    <title lang="pt">Macbeth: Ambição e Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112163200 -0400" stop="20181112181500 -0400" channel="CINEMAX HD">
+    <title lang="pt">Hancock</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112181500 -0400" stop="20181112192800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Minha Vida é um Circo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112192800 -0400" stop="20181112200400 -0400" channel="CINEMAX HD">
+    <title lang="pt">A Grande Luta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200400 -0400" stop="20181112203800 -0400" channel="CINEMAX HD">
+    <title lang="pt">A Grande Luta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203800 -0400" stop="20181112215000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Minha Vida é um Circo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112215000 -0400" stop="20181112230000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Dia Um</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230000 -0400" stop="20181113000000 -0400" channel="CINEMAX HD">
+    <title lang="pt">The Knick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113014000 -0400" channel="CINEMAX HD">
+    <title lang="pt">A Hora do Pesadelo 5</title>
+    <sub-title lang="pt">O Maior Horror de Freddy</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113014000 -0400" stop="20181113031700 -0400" channel="CINEMAX HD">
+    <title lang="pt">Olheiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031700 -0400" stop="20181113050800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Dementes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050800 -0400" stop="20181113064100 -0400" channel="CINEMAX HD">
+    <title lang="pt">Todos os Cães Merecem o Céu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064100 -0400" stop="20181113070300 -0400" channel="CINEMAX HD">
+    <title lang="pt">Festival de Cinema de Los Cabos 2018</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070300 -0400" stop="20181113090200 -0400" channel="CINEMAX HD">
+    <title lang="pt">118 Dias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090200 -0400" stop="20181113105800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Os Caça-Fantasmas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113105800 -0400" stop="20181113130000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Leão Branco</title>
+    <sub-title lang="pt">O Lutador sem Lei</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113144800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Um Amor de Vizinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113144800 -0400" stop="20181113163600 -0400" channel="CINEMAX HD">
+    <title lang="pt">A Mulher de Preto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163600 -0400" stop="20181113182600 -0400" channel="CINEMAX HD">
+    <title lang="pt">Boneco do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113182600 -0400" stop="20181113201700 -0400" channel="CINEMAX HD">
+    <title lang="pt">A Marca do Medo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113201700 -0400" stop="20181113220000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Floresta Maldita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113230100 -0400" channel="CINEMAX HD">
+    <title lang="pt">Game of Thrones</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230100 -0400" stop="20181114005000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Você é o Próximo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114005000 -0400" stop="20181114031000 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Exorcista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114031000 -0400" stop="20181114045000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Bling Ring: A Gangue de Hollywood</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114045000 -0400" stop="20181114064000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Meia-Noite em Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064000 -0400" stop="20181114081200 -0400" channel="CINEMAX HD">
+    <title lang="pt">Scooby-doo e Wwe: Maldição do Demônio Veloz</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114081200 -0400" stop="20181114095800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Animais Unidos Jamais Serão Vencidos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114095800 -0400" stop="20181114115000 -0400" channel="CINEMAX HD">
+    <title lang="pt">As Panteras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114115000 -0400" stop="20181114135300 -0400" channel="CINEMAX HD">
+    <title lang="pt">Mad Max: Além da Cúpula do Trovão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114135300 -0400" stop="20181114154000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Beetlejuice</title>
+    <sub-title lang="pt">Os Fantasmas se Divertem</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114154000 -0400" stop="20181114173100 -0400" channel="CINEMAX HD">
+    <title lang="pt">Premonições</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173100 -0400" stop="20181114192800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Sobrenatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114192800 -0400" stop="20181114220000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Invocação do Mal 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114233100 -0400" channel="CINEMAX HD">
+    <title lang="pt">Quando as Luzes se Apagam</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233100 -0400" stop="20181115020300 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Exorcista</title>
+    <sub-title lang="pt">Versão do Diretor</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
