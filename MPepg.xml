@@ -2,582 +2,2816 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Amazon Sat">
-    <display-name lang="pt">Amazon Sat</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="AMC">
-    <display-name lang="pt">AMC</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Animal Planet">
-    <display-name lang="pt">Animal Planet</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Arte 1">
-    <display-name lang="pt">Arte 1</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="AXN">
     <display-name lang="pt">AXN</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="AXN HD">
     <display-name lang="pt">AXN HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Baby TV">
-    <display-name lang="pt">Baby TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band News">
-    <display-name lang="pt">Band News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band Rede">
-    <display-name lang="pt">Band Rede</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band Sports">
-    <display-name lang="pt">Band Sports</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Bis HD">
-    <display-name lang="pt">Bis HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Bloomberg">
-    <display-name lang="pt">Bloomberg</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Boomerang">
-    <display-name lang="pt">Boomerang</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal 21">
-    <display-name lang="pt">Canal 21</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal Brasil">
-    <display-name lang="pt">Canal Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal do Boi">
-    <display-name lang="pt">Canal do Boi</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canal Rural">
-    <display-name lang="pt">Canal Rural</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Canção Nova">
-    <display-name lang="pt">Canção Nova</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Cartoon Network">
-    <display-name lang="pt">Cartoon Network</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Cinemax">
-    <display-name lang="pt">Cinemax</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CNT">
-    <display-name lang="pt">CNT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Combate">
-    <display-name lang="pt">Combate</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Comedy Central">
-    <display-name lang="pt">Comedy Central</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Channel">
-    <display-name lang="pt">Discovery Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Civilization">
-    <display-name lang="pt">Discovery Civilization</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery HD Theater">
-    <display-name lang="pt">Discovery HD Theater</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Home &amp; Health">
-    <display-name lang="pt">Discovery Home &amp; Health</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Kids">
-    <display-name lang="pt">Discovery Kids</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Science">
-    <display-name lang="pt">Discovery Science</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Discovery Turbo">
-    <display-name lang="pt">Discovery Turbo</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney Channel">
-    <display-name lang="pt">Disney Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney Channel HD">
-    <display-name lang="pt">Disney Channel HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney Junior">
-    <display-name lang="pt">Disney Junior</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Disney XD">
-    <display-name lang="pt">Disney XD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="E! Entertainment Television">
-    <display-name lang="pt">E! Entertainment Television</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="EI Maxx">
-    <display-name lang="pt">EI Maxx</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="EI Maxx HD">
-    <display-name lang="pt">EI Maxx HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN">
-    <display-name lang="pt">ESPN</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN Brasil">
-    <display-name lang="pt">ESPN Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ESPN  HD">
-    <display-name lang="pt">ESPN  HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Eurochannel">
-    <display-name lang="pt">Eurochannel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Film &amp; Arts">
-    <display-name lang="pt">Film &amp; Arts</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox">
-    <display-name lang="pt">Fox</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox Life">
-    <display-name lang="pt">Fox Life</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox News">
-    <display-name lang="pt">Fox News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox Sports">
-    <display-name lang="pt">Fox Sports</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Fox Sports 2">
-    <display-name lang="pt">Fox Sports 2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Futura">
-    <display-name lang="pt">Futura</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="FX">
-    <display-name lang="pt">FX</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - Brasilia">
-    <display-name lang="pt">Globo - Brasilia</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - EPTV Campinas">
-    <display-name lang="pt">Globo - EPTV Campinas</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - EPTV Ribeirão Preto">
-    <display-name lang="pt">Globo - EPTV Ribeirão Preto</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - Minas Gerais">
-    <display-name lang="pt">Globo - Minas Gerais</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - RBS">
-    <display-name lang="pt">Globo - RBS</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - RJ">
-    <display-name lang="pt">Globo - RJ</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - SP">
-    <display-name lang="pt">Globo - SP</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - TV Anhanguera Goiás">
-    <display-name lang="pt">Globo - TV Anhanguera Goiás</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo - TV Bahia">
-    <display-name lang="pt">Globo - TV Bahia</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Globo News">
-    <display-name lang="pt">Globo News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Gloob">
-    <display-name lang="pt">Gloob</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="GNT">
-    <display-name lang="pt">GNT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="H2">
-    <display-name lang="pt">H2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="H2 HD">
-    <display-name lang="pt">H2 HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO">
-    <display-name lang="pt">HBO</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO 2">
-    <display-name lang="pt">HBO 2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Family">
-    <display-name lang="pt">HBO Family</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Plus">
-    <display-name lang="pt">HBO Plus</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Plus *e">
-    <display-name lang="pt">HBO Plus *e</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO Signature">
-    <display-name lang="pt">HBO Signature</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="History Channel">
-    <display-name lang="pt">History Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="History Channel HD">
-    <display-name lang="pt">History Channel HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="i-Sat">
-    <display-name lang="pt">i-Sat</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Investigação Discovery">
-    <display-name lang="pt">Investigação Discovery</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Lifetime">
-    <display-name lang="pt">Lifetime</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Max">
-    <display-name lang="pt">Max</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Max Prime">
-    <display-name lang="pt">Max Prime</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Max Prime *e">
-    <display-name lang="pt">Max Prime *e</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Max Up HD">
-    <display-name lang="pt">Max Up HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix">
-    <display-name lang="pt">Megapix</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Megapix HD">
-    <display-name lang="pt">Megapix HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="MTV">
-    <display-name lang="pt">MTV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Multishow">
-    <display-name lang="pt">Multishow</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Nat Geo Wild HD">
-    <display-name lang="pt">Nat Geo Wild HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="National Geographic">
-    <display-name lang="pt">National Geographic</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="NBR">
-    <display-name lang="pt">NBR</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Nick Jr.">
-    <display-name lang="pt">Nick Jr.</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Nickelodeon">
-    <display-name lang="pt">Nickelodeon</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="OFF HD">
-    <display-name lang="pt">OFF HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Paramount Channel">
-    <display-name lang="pt">Paramount Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Premiere Clubes">
-    <display-name lang="pt">Premiere Clubes</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="RAI International">
-    <display-name lang="pt">RAI International</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="RBI">
-    <display-name lang="pt">RBI</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Record">
-    <display-name lang="pt">Record</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Record News">
-    <display-name lang="pt">Record News</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Boa Vontade">
-    <display-name lang="pt">Rede Boa Vontade</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Famí­lia">
-    <display-name lang="pt">Rede Famí­lia</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Gênesis">
-    <display-name lang="pt">Rede Gênesis</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Super de Televisão">
-    <display-name lang="pt">Rede Super de Televisão</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede TV">
-    <display-name lang="pt">Rede TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Rede Vida">
-    <display-name lang="pt">Rede Vida</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SBT">
-    <display-name lang="pt">SBT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SESC TV">
-    <display-name lang="pt">SESC TV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SIC International">
-    <display-name lang="pt">SIC International</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Sony">
-    <display-name lang="pt">Sony</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SPACE">
-    <display-name lang="pt">SPACE</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Space HD">
-    <display-name lang="pt">Space HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV">
-    <display-name lang="pt">SporTV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV 2">
-    <display-name lang="pt">SporTV 2</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SporTV 3">
-    <display-name lang="pt">SporTV 3</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Studio Universal">
-    <display-name lang="pt">Studio Universal</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SyFy">
-    <display-name lang="pt">SyFy</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TBS">
-    <display-name lang="pt">TBS</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TCM - Turner Classic Movies">
-    <display-name lang="pt">TCM - Turner Classic Movies</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Action">
-    <display-name lang="pt">Telecine Action</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Cult">
-    <display-name lang="pt">Telecine Cult</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Fun">
-    <display-name lang="pt">Telecine Fun</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Pipoca">
-    <display-name lang="pt">Telecine Pipoca</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Premium">
-    <display-name lang="pt">Telecine Premium</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Telecine Touch">
-    <display-name lang="pt">Telecine Touch</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Terra Viva">
-    <display-name lang="pt">Terra Viva</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TLC">
-    <display-name lang="pt">TLC</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT">
-    <display-name lang="pt">TNT</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT HD">
-    <display-name lang="pt">TNT HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT Séries">
-    <display-name lang="pt">TNT Séries</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Tooncast">
-    <display-name lang="pt">Tooncast</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TruTV">
-    <display-name lang="pt">TruTV</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TruTV HD">
-    <display-name lang="pt">TruTV HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Brasil">
-    <display-name lang="pt">TV Brasil</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Brasil Central">
-    <display-name lang="pt">TV Brasil Central</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Câmara">
-    <display-name lang="pt">TV Câmara</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Cultura">
-    <display-name lang="pt">TV Cultura</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Escola">
-    <display-name lang="pt">TV Escola</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Gazeta">
-    <display-name lang="pt">TV Gazeta</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Globo">
-    <display-name lang="pt">TV Globo</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Justiça">
-    <display-name lang="pt">TV Justiça</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Rá-tim-bum">
-    <display-name lang="pt">TV Rá-tim-bum</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV Senado">
-    <display-name lang="pt">TV Senado</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Universal Channel">
-    <display-name lang="pt">Universal Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Vh1">
-    <display-name lang="pt">Vh1</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Vh1 HD">
-    <display-name lang="pt">Vh1 HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="VH1 Mega Hits">
-    <display-name lang="pt">VH1 Mega Hits</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Viva">
-    <display-name lang="pt">Viva</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Warner Channel">
-    <display-name lang="pt">Warner Channel</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Woohoo">
-    <display-name lang="pt">Woohoo</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20181112004000 -0400" stop="20181112010500 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010500 -0400" stop="20181112013000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112013000 -0400" stop="20181112020000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112025500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112025500 -0400" stop="20181112050500 -0400" channel="A&amp;E">
+    <title lang="pt">Caçadores de Emoção</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050500 -0400" stop="20181112060000 -0400" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112062500 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112062500 -0400" stop="20181112065000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112065000 -0400" stop="20181112074500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112074500 -0400" stop="20181112084000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112084000 -0400" stop="20181112093500 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093500 -0400" stop="20181112103000 -0400" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112103000 -0400" stop="20181112112500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112112500 -0400" stop="20181112122000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112122000 -0400" stop="20181112132000 -0400" channel="A&amp;E">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112132000 -0400" stop="20181112141500 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112141500 -0400" stop="20181112162500 -0400" channel="A&amp;E">
+    <title lang="pt">À Procura da Felicidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112162500 -0400" stop="20181112165500 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112165500 -0400" stop="20181112172000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112172000 -0400" stop="20181112174500 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112174500 -0400" stop="20181112192500 -0400" channel="A&amp;E">
+    <title lang="pt">Federal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112192500 -0400" stop="20181112195000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112195000 -0400" stop="20181112205000 -0400" channel="A&amp;E">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112205000 -0400" stop="20181112214500 -0400" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112214500 -0400" stop="20181112224000 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112224000 -0400" stop="20181113005000 -0400" channel="A&amp;E">
+    <title lang="pt">Mergulho Radical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113005000 -0400" stop="20181113012000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113012000 -0400" stop="20181113015000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113015000 -0400" stop="20181113022000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113022000 -0400" stop="20181113031500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031500 -0400" stop="20181113041000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113041000 -0400" stop="20181113050500 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050500 -0400" stop="20181113060000 -0400" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113062500 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113062500 -0400" stop="20181113065000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113065000 -0400" stop="20181113074500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113074500 -0400" stop="20181113084000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113084000 -0400" stop="20181113093500 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093500 -0400" stop="20181113103000 -0400" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113112500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113112500 -0400" stop="20181113122000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113122000 -0400" stop="20181113132000 -0400" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113132000 -0400" stop="20181113142000 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113142000 -0400" stop="20181113163000 -0400" channel="A&amp;E">
+    <title lang="pt">O Sexto Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163000 -0400" stop="20181113170000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113172500 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113172500 -0400" stop="20181113175000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113175000 -0400" stop="20181113200000 -0400" channel="A&amp;E">
+    <title lang="pt">Mergulho Radical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113205500 -0400" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113205500 -0400" stop="20181113222500 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia 24 Horas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113222500 -0400" stop="20181114003500 -0400" channel="A&amp;E">
+    <title lang="pt">O Sexto Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114003500 -0400" stop="20181114010500 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010500 -0400" stop="20181114013000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114013000 -0400" stop="20181114020000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114040000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114050000 -0400" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114062500 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114062500 -0400" stop="20181114065000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114065000 -0400" stop="20181114074500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114074500 -0400" stop="20181114084000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114084000 -0400" stop="20181114093500 -0400" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093500 -0400" stop="20181114103000 -0400" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114112500 -0400" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114112500 -0400" stop="20181114122000 -0400" channel="A&amp;E">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114122000 -0400" stop="20181114132000 -0400" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114132000 -0400" stop="20181114145000 -0400" channel="A&amp;E">
+    <title lang="pt">Polícia 24 Horas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114145000 -0400" stop="20181114170000 -0400" channel="A&amp;E">
+    <title lang="pt">O Sexto Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114173000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114180000 -0400" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114195000 -0400" channel="A&amp;E">
+    <title lang="pt">A Caverna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114195000 -0400" stop="20181114204500 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114204500 -0400" stop="20181114214000 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214000 -0400" stop="20181114223500 -0400" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223500 -0400" stop="20181115002500 -0400" channel="A&amp;E">
+    <title lang="pt">A Caverna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112004000 -0400" stop="20181112010500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010500 -0400" stop="20181112013000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112013000 -0400" stop="20181112020000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112025500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112025500 -0400" stop="20181112050500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Caçadores de Emoção</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050500 -0400" stop="20181112060000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Esposas Assassinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112062500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112062500 -0400" stop="20181112065000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112065000 -0400" stop="20181112074500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112074500 -0400" stop="20181112084000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112084000 -0400" stop="20181112093500 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112093500 -0400" stop="20181112103000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112103000 -0400" stop="20181112112500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112112500 -0400" stop="20181112122000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112122000 -0400" stop="20181112132000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112132000 -0400" stop="20181112141500 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112141500 -0400" stop="20181112162500 -0400" channel="A&amp;E HD">
+    <title lang="pt">À Procura da Felicidade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112162500 -0400" stop="20181112165500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112165500 -0400" stop="20181112172000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112172000 -0400" stop="20181112174500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112174500 -0400" stop="20181112192500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Federal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112192500 -0400" stop="20181112195000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112195000 -0400" stop="20181112205000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112205000 -0400" stop="20181112214500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112214500 -0400" stop="20181112224000 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112224000 -0400" stop="20181113005000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Mergulho Radical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113005000 -0400" stop="20181113012000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113012000 -0400" stop="20181113015000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113015000 -0400" stop="20181113022000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113022000 -0400" stop="20181113031500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031500 -0400" stop="20181113041000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113041000 -0400" stop="20181113050500 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050500 -0400" stop="20181113060000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113062500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113062500 -0400" stop="20181113065000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113065000 -0400" stop="20181113074500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113074500 -0400" stop="20181113084000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113084000 -0400" stop="20181113093500 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093500 -0400" stop="20181113103000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113112500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113112500 -0400" stop="20181113122000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113122000 -0400" stop="20181113132000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113132000 -0400" stop="20181113142000 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113142000 -0400" stop="20181113163000 -0400" channel="A&amp;E HD">
+    <title lang="pt">O Sexto Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163000 -0400" stop="20181113170000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113172500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113172500 -0400" stop="20181113175000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113175000 -0400" stop="20181113200000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Mergulho Radical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113205500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113205500 -0400" stop="20181113222500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia 24 Horas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113222500 -0400" stop="20181114003500 -0400" channel="A&amp;E HD">
+    <title lang="pt">O Sexto Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114003500 -0400" stop="20181114010500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010500 -0400" stop="20181114013000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114013000 -0400" stop="20181114020000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114040000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114050000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114062500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114062500 -0400" stop="20181114065000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114065000 -0400" stop="20181114074500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114074500 -0400" stop="20181114084000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114084000 -0400" stop="20181114093500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093500 -0400" stop="20181114103000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114112500 -0400" channel="A&amp;E HD">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114112500 -0400" stop="20181114122000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Alunos Sob Suspeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114122000 -0400" stop="20181114132000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Escravos da Cientologia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114132000 -0400" stop="20181114145000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Polícia 24 Horas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114145000 -0400" stop="20181114170000 -0400" channel="A&amp;E HD">
+    <title lang="pt">O Sexto Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114173000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114180000 -0400" channel="A&amp;E HD">
+    <title lang="pt">Barrados na Fronteira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114195000 -0400" channel="A&amp;E HD">
+    <title lang="pt">A Caverna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114195000 -0400" stop="20181114204500 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114204500 -0400" stop="20181114214000 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214000 -0400" stop="20181114223500 -0400" channel="A&amp;E HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223500 -0400" stop="20181115002500 -0400" channel="A&amp;E HD">
+    <title lang="pt">A Caverna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000700 -0400" stop="20181112010100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010100 -0400" stop="20181112015100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112015100 -0400" stop="20181112024100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112024100 -0400" stop="20181112033100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033100 -0400" stop="20181112042200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112042200 -0400" stop="20181112051700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112051700 -0400" stop="20181112061200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112061200 -0400" stop="20181112064200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112064200 -0400" stop="20181112071200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112071200 -0400" stop="20181112080300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080300 -0400" stop="20181112085800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112085800 -0400" stop="20181112095300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112095300 -0400" stop="20181112104800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112104800 -0400" stop="20181112114300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112114300 -0400" stop="20181112123700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123700 -0400" stop="20181112130600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130600 -0400" stop="20181112140000 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Indonésia Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112145400 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112145400 -0400" stop="20181112154800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112154800 -0400" stop="20181112164200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112164200 -0400" stop="20181112173600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Encontros Ferozes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173600 -0400" stop="20181112180100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180100 -0400" stop="20181112182600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112182600 -0400" stop="20181112184900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112184900 -0400" stop="20181112193900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193900 -0400" stop="20181112203000 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112212100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112212100 -0400" stop="20181112221500 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112221500 -0400" stop="20181112230900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230900 -0400" stop="20181113000700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000700 -0400" stop="20181113010100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010100 -0400" stop="20181113015100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113015100 -0400" stop="20181113024100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113024100 -0400" stop="20181113033100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033100 -0400" stop="20181113042200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113042200 -0400" stop="20181113051700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113051700 -0400" stop="20181113061200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113061200 -0400" stop="20181113064200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064200 -0400" stop="20181113071200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113071200 -0400" stop="20181113080300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080300 -0400" stop="20181113085800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113085800 -0400" stop="20181113095300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113095300 -0400" stop="20181113104800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113104800 -0400" stop="20181113114300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113114300 -0400" stop="20181113123700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123700 -0400" stop="20181113130600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130600 -0400" stop="20181113140000 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Oriente Médio Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113145400 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113145400 -0400" stop="20181113154800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113154800 -0400" stop="20181113164200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113164200 -0400" stop="20181113173600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Lendas Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173600 -0400" stop="20181113180100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180100 -0400" stop="20181113182600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113182600 -0400" stop="20181113184900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184900 -0400" stop="20181113193900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193900 -0400" stop="20181113203000 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181114000700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000700 -0400" stop="20181114010100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010100 -0400" stop="20181114015100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114015100 -0400" stop="20181114024100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024100 -0400" stop="20181114061200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114061200 -0400" stop="20181114064200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064200 -0400" stop="20181114071200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114071200 -0400" stop="20181114080300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080300 -0400" stop="20181114085800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114085800 -0400" stop="20181114095300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114095300 -0400" stop="20181114104800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114104800 -0400" stop="20181114114300 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114114300 -0400" stop="20181114123700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123700 -0400" stop="20181114130600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130600 -0400" stop="20181114140000 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Oriente Médio Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114145400 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114145400 -0400" stop="20181114154800 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114154800 -0400" stop="20181114164200 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114164200 -0400" stop="20181114173600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Reinos Ocultos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173600 -0400" stop="20181114180100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180100 -0400" stop="20181114182600 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114182600 -0400" stop="20181114184900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184900 -0400" stop="20181114193900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193900 -0400" stop="20181114203000 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114212100 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114212100 -0400" stop="20181114221900 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114221900 -0400" stop="20181114231700 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114231700 -0400" stop="20181115001500 -0400" channel="ANIMAL PLANET">
+    <title lang="pt">Patagônia Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000700 -0400" stop="20181112010100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010100 -0400" stop="20181112015100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112015100 -0400" stop="20181112024100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112024100 -0400" stop="20181112033100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112033100 -0400" stop="20181112042200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112042200 -0400" stop="20181112051700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">O Mestre das Piscinas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112051700 -0400" stop="20181112061200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinário das Montanhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112061200 -0400" stop="20181112064200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112064200 -0400" stop="20181112071200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112071200 -0400" stop="20181112080300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080300 -0400" stop="20181112085800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112085800 -0400" stop="20181112095300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pit bulls e Condenados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112095300 -0400" stop="20181112104800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112104800 -0400" stop="20181112114300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112114300 -0400" stop="20181112123700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112123700 -0400" stop="20181112130600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130600 -0400" stop="20181112140000 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Indonésia Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112145400 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112145400 -0400" stop="20181112154800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112154800 -0400" stop="20181112164200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Animais Mortais Da Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112164200 -0400" stop="20181112173600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Encontros Ferozes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112173600 -0400" stop="20181112180100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180100 -0400" stop="20181112182600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112182600 -0400" stop="20181112184900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112184900 -0400" stop="20181112193900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112193900 -0400" stop="20181112203000 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112203000 -0400" stop="20181112212100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112212100 -0400" stop="20181112221500 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112221500 -0400" stop="20181112230900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230900 -0400" stop="20181113000700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000700 -0400" stop="20181113010100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010100 -0400" stop="20181113015100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113015100 -0400" stop="20181113024100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113024100 -0400" stop="20181113033100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Monstros do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033100 -0400" stop="20181113042200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">A Família Irwin</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113042200 -0400" stop="20181113051700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113051700 -0400" stop="20181113061200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Perdido na Amazônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113061200 -0400" stop="20181113064200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064200 -0400" stop="20181113071200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113071200 -0400" stop="20181113080300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080300 -0400" stop="20181113085800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113085800 -0400" stop="20181113095300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Veterinários do Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113095300 -0400" stop="20181113104800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113104800 -0400" stop="20181113114300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113114300 -0400" stop="20181113123700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123700 -0400" stop="20181113130600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130600 -0400" stop="20181113140000 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Oriente Médio Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113145400 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113145400 -0400" stop="20181113154800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113154800 -0400" stop="20181113164200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Criaturas Estranhas Com Dominic Monaghan</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113164200 -0400" stop="20181113173600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Lendas Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173600 -0400" stop="20181113180100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180100 -0400" stop="20181113182600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113182600 -0400" stop="20181113184900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184900 -0400" stop="20181113193900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193900 -0400" stop="20181113203000 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181114000700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000700 -0400" stop="20181114010100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010100 -0400" stop="20181114015100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114015100 -0400" stop="20181114024100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024100 -0400" stop="20181114061200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Piscinas Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114061200 -0400" stop="20181114064200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064200 -0400" stop="20181114071200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114071200 -0400" stop="20181114080300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080300 -0400" stop="20181114085800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114085800 -0400" stop="20181114095300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Justiça Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114095300 -0400" stop="20181114104800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114104800 -0400" stop="20181114114300 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114114300 -0400" stop="20181114123700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123700 -0400" stop="20181114130600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130600 -0400" stop="20181114140000 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Oriente Médio Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114145400 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114145400 -0400" stop="20181114154800 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114154800 -0400" stop="20181114164200 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114164200 -0400" stop="20181114173600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Reinos Ocultos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173600 -0400" stop="20181114180100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180100 -0400" stop="20181114182600 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114182600 -0400" stop="20181114184900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184900 -0400" stop="20181114193900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193900 -0400" stop="20181114203000 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114212100 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114212100 -0400" stop="20181114221900 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114221900 -0400" stop="20181114231700 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114231700 -0400" stop="20181115001500 -0400" channel="ANIMAL PLANET HD">
+    <title lang="pt">Patagônia Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000500 -0400" stop="20181112010000 -0400" channel="AXN">
+    <title lang="pt">Quantico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010000 -0400" stop="20181112020000 -0400" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112030000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112040000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112050000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112070000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112080000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112090000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 -0400" stop="20181112100000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112110000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 -0400" stop="20181112120000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112130000 -0400" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112140000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112150000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112160000 -0400" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112170000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112180000 -0400" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112190000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112190000 -0400" stop="20181112200000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112210000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181112220000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112230000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230000 -0400" stop="20181113000000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113020000 -0400" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113030000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113040000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113050000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113070000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113090000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113100000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113110000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113120000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113130000 -0400" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113140000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113150000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113160000 -0400" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113170000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113180000 -0400" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113190000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113200000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113210000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113220000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113230000 -0400" channel="AXN">
+    <title lang="pt">Ncis: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181114000000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="AXN">
+    <title lang="pt">Ncis: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114020000 -0400" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114040000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114050000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114080000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114090000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114110000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114120000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114130000 -0400" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114140000 -0400" channel="AXN">
+    <title lang="pt">Ncis: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114160000 -0400" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114170000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114180000 -0400" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114190000 -0400" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114200000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114210000 -0400" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181114220000 -0400" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114230000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181115000000 -0400" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112000500 -0400" stop="20181112010000 -0400" channel="AXN HD">
+    <title lang="pt">Quantico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112010000 -0400" stop="20181112020000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112020000 -0400" stop="20181112030000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112030000 -0400" stop="20181112040000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112040000 -0400" stop="20181112050000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112050000 -0400" stop="20181112060000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112060000 -0400" stop="20181112070000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112070000 -0400" stop="20181112080000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112080000 -0400" stop="20181112090000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112090000 -0400" stop="20181112100000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112100000 -0400" stop="20181112110000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112110000 -0400" stop="20181112120000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112120000 -0400" stop="20181112130000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112130000 -0400" stop="20181112140000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112140000 -0400" stop="20181112150000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112150000 -0400" stop="20181112160000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112160000 -0400" stop="20181112170000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112170000 -0400" stop="20181112180000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112180000 -0400" stop="20181112190000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112190000 -0400" stop="20181112200000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112200000 -0400" stop="20181112210000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112210000 -0400" stop="20181112220000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112220000 -0400" stop="20181112230000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181112230000 -0400" stop="20181113000000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113020000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113030000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113040000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113050000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113060000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113070000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113080000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113090000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113100000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113110000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113120000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113130000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113140000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113150000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113160000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113170000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170000 -0400" stop="20181113180000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113190000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113200000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113210000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113220000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113230000 -0400" channel="AXN HD">
+    <title lang="pt">Ncis: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181114000000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="AXN HD">
+    <title lang="pt">Ncis: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114020000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114030000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114040000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114050000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114060000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114080000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114090000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114110000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114120000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114130000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114140000 -0400" channel="AXN HD">
+    <title lang="pt">Ncis: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114160000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114170000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114180000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114190000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114200000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114210000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181114220000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114230000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181115000000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
 </tv>
