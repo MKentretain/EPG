@@ -10,7 +10,7 @@
   </channel>
   <channel id="AMC">
     <display-name lang="pt">AMC</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tnt3.gif" />
+    <icon src="http://www.lineup.tv.br/canais/furgtv.gif|http://www.lineup.tv.br/canais/canalsaude.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="ANIMAL PLANET">
@@ -43,12 +43,12 @@
   </channel>
   <channel id="BABY TV HD">
     <display-name lang="pt">BABY TV HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvgoiania.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tlc.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Band Campinas">
     <display-name lang="pt">Band Campinas</display-name>
-    <icon src="http://www.lineup.tv.br/canais/rtv10.gif" />
+    <icon src="http://www.lineup.tv.br/canais/rbitv.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="BAND NEWS">
@@ -57,7 +57,7 @@
   </channel>
   <channel id="BAND NEWS HD">
     <display-name lang="pt">BAND NEWS HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvaraucaria.gif|http://www.lineup.tv.br/canais/redegospel.gif|http://www.lineup.tv.br/canais/redetv.gif" />
+    <icon src="http://www.lineup.tv.br/canais/ric.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="BAND SP">
@@ -86,7 +86,7 @@
   </channel>
   <channel id="BOOMERANG HD">
     <display-name lang="pt">BOOMERANG HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvfronteira.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <icon src="http://www.lineup.tv.br/canais/nickjr.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CANAL BRASIL">
@@ -99,7 +99,7 @@
   </channel>
   <channel id="CANAL SONY">
     <display-name lang="pt">CANAL SONY</display-name>
-    <icon src="http://www.lineup.tv.br/canais/ric.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <icon src="http://www.lineup.tv.br/canais/hbofamily.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CANAL SONY HD">
@@ -116,12 +116,12 @@
   </channel>
   <channel id="CARTOON NETWORK HD">
     <display-name lang="pt">CARTOON NETWORK HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvtaroba.gif|http://www.lineup.tv.br/canais/band.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvalmg.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CINEMAX">
     <display-name lang="pt">CINEMAX</display-name>
-    <icon src="http://www.lineup.tv.br/canais/entersports.gif" />
+    <icon src="http://www.lineup.tv.br/canais/natgeo.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CINEMAX HD">
@@ -142,7 +142,7 @@
   </channel>
   <channel id="COMEDY CENTRAL HD">
     <display-name lang="pt">COMEDY CENTRAL HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/recordnews.gif" />
+    <icon src="http://www.lineup.tv.br/canais/campustv.gif|http://www.lineup.tv.br/canais/tvunesp.gif|http://www.lineup.tv.br/canais/univesp.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CURTA!">
@@ -151,7 +151,7 @@
   </channel>
   <channel id="CURTA! HD">
     <display-name lang="pt">CURTA! HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/foxpremium1.gif" />
+    <icon src="http://www.lineup.tv.br/canais/universaltv.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="DISCOVERY CHANNEL">
@@ -160,7 +160,7 @@
   </channel>
   <channel id="DISCOVERY CHANNEL HD">
     <display-name lang="pt">DISCOVERY CHANNEL HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvmiramar.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <icon src="http://www.lineup.tv.br/canais/araucaria-guarapuava.gif|http://www.lineup.tv.br/canais/sesctv.gif|http://www.lineup.tv.br/canais/yeeah.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="DISCOVERY CIVILIZATION">
@@ -169,7 +169,7 @@
   </channel>
   <channel id="DISCOVERY CIVILIZATION HD">
     <display-name lang="pt">DISCOVERY CIVILIZATION HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/rpc.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvgazeta-ac.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Discovery Home &amp; Health">
@@ -178,7 +178,7 @@
   </channel>
   <channel id="Discovery Home &amp; Health HD">
     <display-name lang="pt">Discovery Home &amp; Health HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/rtpi.gif" />
+    <icon src="http://www.lineup.tv.br/canais/redemassa.gif|http://www.lineup.tv.br/canais/sbt.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="DISCOVERY KIDS">
@@ -195,12 +195,12 @@
   </channel>
   <channel id="DISCOVERY SCIENCE HD">
     <display-name lang="pt">DISCOVERY SCIENCE HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/universo4.gif" />
+    <icon src="http://www.lineup.tv.br/canais/shoptime.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="DISCOVERY THEATER">
     <display-name lang="pt">DISCOVERY THEATER</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvart.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvescola.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="DISCOVERY THEATER HD">
@@ -221,7 +221,7 @@
   </channel>
   <channel id="DISCOVERY WORLD">
     <display-name lang="pt">DISCOVERY WORLD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/m1.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-aracaju.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="DISNEY CHANNEL">
@@ -270,7 +270,7 @@
   </channel>
   <channel id="FOOD NETWORK">
     <display-name lang="pt">FOOD NETWORK</display-name>
-    <icon src="http://www.lineup.tv.br/canais/redemundial1.gif" />
+    <icon src="http://www.lineup.tv.br/canais/animalplanet.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="FOOD NETWORK HD">
@@ -283,7 +283,81 @@
   </channel>
   <channel id="FOX LIFE HD">
     <display-name lang="pt">FOX LIFE HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/eptv.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvtem.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="pt">FOX SPORTS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="pt">FOX SPORTS HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="pt">FOX SPORTS 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2 HD">
+    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FUTURA">
+    <display-name lang="pt">FUTURA</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GLOBO SP">
+    <display-name lang="pt">GLOBO SP</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GLOBO SP HD">
+    <display-name lang="pt">GLOBO SP HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-litoral.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO EPTV CAMPINAS">
+    <display-name lang="pt">GLOBO EPTV CAMPINAS</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvassembleia-pi.gif|http://www.lineup.tv.br/canais/tvcamara.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO BRASILIA">
+    <display-name lang="pt">GLOBO BRASILIA</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvclaret.gif|http://www.lineup.tv.br/canais/redeseculo21.gif|http://www.lineup.tv.br/canais/tvbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO MG">
+    <display-name lang="pt">GLOBO MG</display-name>
+    <icon src="http://www.lineup.tv.br/canais/98live.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO NORDESTE">
+    <display-name lang="pt">GLOBO NORDESTE</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sportv3.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO ES FHD">
+    <display-name lang="pt">GLOBO ES FHD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/bah.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <programme start="20181113005000 -0400" stop="20181113012000 -0400" channel="A&amp;E">
@@ -28266,6 +28340,4389 @@
   </programme>
   <programme start="20181115233000 -0400" stop="20181116001500 -0400" channel="FOX LIFE">
     <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003000 -0400" stop="20181113020500 -0400" channel="FOX">
+    <title lang="pt">Carga Explosiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020500 -0400" stop="20181113043000 -0400" channel="FOX">
+    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113063000 -0400" channel="FOX">
+    <title lang="pt">Trama Internacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113070000 -0400" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113075000 -0400" channel="FOX">
+    <title lang="pt">24 Legacy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113075000 -0400" stop="20181113093000 -0400" channel="FOX">
+    <title lang="pt">A História de Brooke Ellison</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113111000 -0400" channel="FOX">
+    <title lang="pt">Mãos Talentosas</title>
+    <sub-title lang="pt">A História de Ben Carson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113111000 -0400" stop="20181113131500 -0400" channel="FOX">
+    <title lang="pt">O Sorriso de Mona Lisa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113131500 -0400" stop="20181113150500 -0400" channel="FOX">
+    <title lang="pt">O Casamento do meu Melhor Amigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150500 -0400" stop="20181113164000 -0400" channel="FOX">
+    <title lang="pt">Noivas em Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113164000 -0400" stop="20181113170500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170500 -0400" stop="20181113173000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113180000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113201500 -0400" channel="FOX">
+    <title lang="pt">1 Contra Todos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113201500 -0400" stop="20181113204000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113204000 -0400" stop="20181113210500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210500 -0400" stop="20181113213000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113215500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113215500 -0400" stop="20181113222000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113222000 -0400" stop="20181113224500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113224500 -0400" stop="20181114005000 -0400" channel="FOX">
+    <title lang="pt">Percy Jackson e o Ladrão de Raios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114005000 -0400" stop="20181114023500 -0400" channel="FOX">
+    <title lang="pt">Percy Jackson e o Mar de Monstros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114023500 -0400" stop="20181114042000 -0400" channel="FOX">
+    <title lang="pt">Projeto Almanaque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114042000 -0400" stop="20181114061500 -0400" channel="FOX">
+    <title lang="pt">Linha do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114061500 -0400" stop="20181114063500 -0400" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063500 -0400" stop="20181114070000 -0400" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114075000 -0400" channel="FOX">
+    <title lang="pt">24 Legacy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114075000 -0400" stop="20181114094500 -0400" channel="FOX">
+    <title lang="pt">Distrito 9</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114094500 -0400" stop="20181114114500 -0400" channel="FOX">
+    <title lang="pt">Linha do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114114500 -0400" stop="20181114133500 -0400" channel="FOX">
+    <title lang="pt">Projeto Almanaque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133500 -0400" stop="20181114160500 -0400" channel="FOX">
+    <title lang="pt">Ponte dos Espiões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160500 -0400" stop="20181114170500 -0400" channel="FOX">
+    <title lang="pt">The Gifted</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170500 -0400" stop="20181114173000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114175500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114175500 -0400" stop="20181114182000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114182000 -0400" stop="20181114201500 -0400" channel="FOX">
+    <title lang="pt">Cidade dos Homens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114201500 -0400" stop="20181114204000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114204000 -0400" stop="20181114210500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210500 -0400" stop="20181114213000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114215500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114215500 -0400" stop="20181114222000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114222000 -0400" stop="20181114224500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114224500 -0400" stop="20181115013000 -0400" channel="FOX">
+    <title lang="pt">Avatar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115013000 -0400" stop="20181115033700 -0400" channel="FOX">
+    <title lang="pt">As Aventuras de Pi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115033700 -0400" stop="20181115051500 -0400" channel="FOX">
+    <title lang="pt">Escrito nas Estrelas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115051500 -0400" stop="20181115070000 -0400" channel="FOX">
+    <title lang="pt">Recém-Casados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115075000 -0400" channel="FOX">
+    <title lang="pt">24 Legacy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115075000 -0400" stop="20181115092000 -0400" channel="FOX">
+    <title lang="pt">A Filha do Chefe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115092000 -0400" stop="20181115111000 -0400" channel="FOX">
+    <title lang="pt">Encontro de Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115111000 -0400" stop="20181115130000 -0400" channel="FOX">
+    <title lang="pt">Dança Comigo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115130000 -0400" stop="20181115145000 -0400" channel="FOX">
+    <title lang="pt">Amizade Colorida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115145000 -0400" stop="20181115164000 -0400" channel="FOX">
+    <title lang="pt">O Casamento do meu Melhor Amigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115164000 -0400" stop="20181115170500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115170500 -0400" stop="20181115173000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115173000 -0400" stop="20181115175500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115175500 -0400" stop="20181115182000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115182000 -0400" stop="20181115195000 -0400" channel="FOX">
+    <title lang="pt">A Era do Gelo 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115195000 -0400" stop="20181115201500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115201500 -0400" stop="20181115204000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115204000 -0400" stop="20181115210500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210500 -0400" stop="20181115213000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115213000 -0400" stop="20181115215500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115215500 -0400" stop="20181115222000 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115222000 -0400" stop="20181115224500 -0400" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115224500 -0400" stop="20181116001500 -0400" channel="FOX">
+    <title lang="pt">Carga Explosiva 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003000 -0400" stop="20181113020500 -0400" channel="FOX HD">
+    <title lang="pt">Carga Explosiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020500 -0400" stop="20181113043000 -0400" channel="FOX HD">
+    <title lang="pt">Robin Hood: O Príncipe dos Ladrões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113043000 -0400" stop="20181113063000 -0400" channel="FOX HD">
+    <title lang="pt">Trama Internacional</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113070000 -0400" channel="FOX HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113075000 -0400" channel="FOX HD">
+    <title lang="pt">24 Legacy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113075000 -0400" stop="20181113093000 -0400" channel="FOX HD">
+    <title lang="pt">A História de Brooke Ellison</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113111000 -0400" channel="FOX HD">
+    <title lang="pt">Mãos Talentosas</title>
+    <sub-title lang="pt">A História de Ben Carson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113111000 -0400" stop="20181113131500 -0400" channel="FOX HD">
+    <title lang="pt">O Sorriso de Mona Lisa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113131500 -0400" stop="20181113150500 -0400" channel="FOX HD">
+    <title lang="pt">O Casamento do meu Melhor Amigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150500 -0400" stop="20181113164000 -0400" channel="FOX HD">
+    <title lang="pt">Noivas em Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113164000 -0400" stop="20181113170500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113170500 -0400" stop="20181113173000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113180000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113201500 -0400" channel="FOX HD">
+    <title lang="pt">1 Contra Todos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113201500 -0400" stop="20181113204000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113204000 -0400" stop="20181113210500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210500 -0400" stop="20181113213000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113213000 -0400" stop="20181113215500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113215500 -0400" stop="20181113222000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113222000 -0400" stop="20181113224500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113224500 -0400" stop="20181114005000 -0400" channel="FOX HD">
+    <title lang="pt">Percy Jackson e o Ladrão de Raios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114005000 -0400" stop="20181114023500 -0400" channel="FOX HD">
+    <title lang="pt">Percy Jackson e o Mar de Monstros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114023500 -0400" stop="20181114042000 -0400" channel="FOX HD">
+    <title lang="pt">Projeto Almanaque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114042000 -0400" stop="20181114061500 -0400" channel="FOX HD">
+    <title lang="pt">Linha do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114061500 -0400" stop="20181114063500 -0400" channel="FOX HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063500 -0400" stop="20181114070000 -0400" channel="FOX HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114075000 -0400" channel="FOX HD">
+    <title lang="pt">24 Legacy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114075000 -0400" stop="20181114094500 -0400" channel="FOX HD">
+    <title lang="pt">Distrito 9</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114094500 -0400" stop="20181114114500 -0400" channel="FOX HD">
+    <title lang="pt">Linha do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114114500 -0400" stop="20181114133500 -0400" channel="FOX HD">
+    <title lang="pt">Projeto Almanaque</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133500 -0400" stop="20181114160500 -0400" channel="FOX HD">
+    <title lang="pt">Ponte dos Espiões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160500 -0400" stop="20181114170500 -0400" channel="FOX HD">
+    <title lang="pt">The Gifted</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170500 -0400" stop="20181114173000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114175500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114175500 -0400" stop="20181114182000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114182000 -0400" stop="20181114201500 -0400" channel="FOX HD">
+    <title lang="pt">Cidade dos Homens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114201500 -0400" stop="20181114204000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114204000 -0400" stop="20181114210500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210500 -0400" stop="20181114213000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114215500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114215500 -0400" stop="20181114222000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114222000 -0400" stop="20181114224500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114224500 -0400" stop="20181115013000 -0400" channel="FOX HD">
+    <title lang="pt">Avatar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115013000 -0400" stop="20181115033700 -0400" channel="FOX HD">
+    <title lang="pt">As Aventuras de Pi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115033700 -0400" stop="20181115051500 -0400" channel="FOX HD">
+    <title lang="pt">Escrito nas Estrelas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115051500 -0400" stop="20181115070000 -0400" channel="FOX HD">
+    <title lang="pt">Recém-Casados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115075000 -0400" channel="FOX HD">
+    <title lang="pt">24 Legacy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115075000 -0400" stop="20181115092000 -0400" channel="FOX HD">
+    <title lang="pt">A Filha do Chefe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115092000 -0400" stop="20181115111000 -0400" channel="FOX HD">
+    <title lang="pt">Encontro de Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115111000 -0400" stop="20181115130000 -0400" channel="FOX HD">
+    <title lang="pt">Dança Comigo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115130000 -0400" stop="20181115145000 -0400" channel="FOX HD">
+    <title lang="pt">Amizade Colorida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115145000 -0400" stop="20181115164000 -0400" channel="FOX HD">
+    <title lang="pt">O Casamento do meu Melhor Amigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115164000 -0400" stop="20181115170500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115170500 -0400" stop="20181115173000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115173000 -0400" stop="20181115175500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115175500 -0400" stop="20181115182000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115182000 -0400" stop="20181115195000 -0400" channel="FOX HD">
+    <title lang="pt">A Era do Gelo 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115195000 -0400" stop="20181115201500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115201500 -0400" stop="20181115204000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115204000 -0400" stop="20181115210500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210500 -0400" stop="20181115213000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115213000 -0400" stop="20181115215500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115215500 -0400" stop="20181115222000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115222000 -0400" stop="20181115224500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115224500 -0400" stop="20181116001500 -0400" channel="FOX HD">
+    <title lang="pt">Carga Explosiva 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003000 -0400" stop="20181113013000 -0400" channel="FOX SPORTS">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113013000 -0400" stop="20181113031500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Cerro Porteño</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031500 -0400" stop="20181113050000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Estudiantes (ARG)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113064500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Tucumán x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064500 -0400" stop="20181113070000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Libertadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113083000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Tucumán</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113120000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113124500 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113124500 -0400" stop="20181113153000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113173000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Boa Tarde Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113200000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113210000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113214500 -0400" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113214500 -0400" stop="20181113234500 -0400" channel="FOX SPORTS">
+    <title lang="pt">River Plate x Grêmio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113234500 -0400" stop="20181114010000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114024500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024500 -0400" stop="20181114030000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114044500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cerro Porteño x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114044500 -0400" stop="20181114050000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Cerro Porteño (PAR)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114064500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Colo-colo x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064500 -0400" stop="20181114070000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Libertadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114083000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Colo-colo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114090000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114120000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114124500 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114124500 -0400" stop="20181114153000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114173000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Boa Tarde Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114191500 -0400" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114191500 -0400" stop="20181114193000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114213000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Fluminense x Nacional (URU)</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114214500 -0400" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214500 -0400" stop="20181114234500 -0400" channel="FOX SPORTS">
+    <title lang="pt">Boca Juniors (ARG) x Palmeiras</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114234500 -0400" stop="20181115013000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115013000 -0400" stop="20181115031500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115031500 -0400" stop="20181115041500 -0400" channel="FOX SPORTS">
+    <title lang="pt">El Clásico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115041500 -0400" stop="20181115060000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115060000 -0400" stop="20181115070000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115074500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115074500 -0400" stop="20181115080000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115080000 -0400" stop="20181115081500 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115081500 -0400" stop="20181115083000 -0400" channel="FOX SPORTS">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115083000 -0400" stop="20181115090000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115090000 -0400" stop="20181115120000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Bom Dia Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115120000 -0400" stop="20181115124500 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115124500 -0400" stop="20181115153000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Fox Sports Rádio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115153000 -0400" stop="20181115160000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115160000 -0400" stop="20181115180000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Chelsea x Bate Borisov</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115180000 -0400" stop="20181115200000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Expediente Futebol</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115200000 -0400" stop="20181115210000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210000 -0400" stop="20181115230000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Reta Final</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115230000 -0400" stop="20181116000000 -0400" channel="FOX SPORTS">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003000 -0400" stop="20181113013000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113013000 -0400" stop="20181113031500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Cerro Porteño</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031500 -0400" stop="20181113050000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Estudiantes (ARG)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113064500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Tucumán x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064500 -0400" stop="20181113070000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Libertadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113083000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Tucumán</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113120000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Bom Dia Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113124500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113124500 -0400" stop="20181113153000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Fox Sports Rádio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113173000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Boa Tarde Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113200000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Expediente Futebol</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113210000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113214500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113214500 -0400" stop="20181113234500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">River Plate x Grêmio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113234500 -0400" stop="20181114010000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114024500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024500 -0400" stop="20181114030000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114044500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cerro Porteño x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114044500 -0400" stop="20181114050000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Cerro Porteño (PAR)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114064500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Colo-colo x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064500 -0400" stop="20181114070000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Libertadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114083000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Colo-colo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114090000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114120000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Bom Dia Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114124500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114124500 -0400" stop="20181114153000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Fox Sports Rádio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114173000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Boa Tarde Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114191500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Expediente Futebol</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114191500 -0400" stop="20181114193000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114213000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Fluminense x Nacional (URU)</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114214500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214500 -0400" stop="20181114234500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Boca Juniors (ARG) x Palmeiras</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114234500 -0400" stop="20181115013000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115013000 -0400" stop="20181115031500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115031500 -0400" stop="20181115041500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">El Clásico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115041500 -0400" stop="20181115060000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115060000 -0400" stop="20181115070000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115074500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115074500 -0400" stop="20181115080000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115080000 -0400" stop="20181115081500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115081500 -0400" stop="20181115083000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115083000 -0400" stop="20181115090000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115090000 -0400" stop="20181115120000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Bom Dia Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115120000 -0400" stop="20181115124500 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115124500 -0400" stop="20181115153000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Fox Sports Rádio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115153000 -0400" stop="20181115160000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115160000 -0400" stop="20181115180000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Chelsea x Bate Borisov</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115180000 -0400" stop="20181115200000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Expediente Futebol</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115200000 -0400" stop="20181115210000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210000 -0400" stop="20181115230000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Reta Final</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115230000 -0400" stop="20181116000000 -0400" channel="FOX SPORTS HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113011500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113011500 -0400" stop="20181113030000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113040000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113041500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113041500 -0400" stop="20181113060000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Barcelona x Sevilla</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113070000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113073000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113083000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113101500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">San Martín x Racing</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113101500 -0400" stop="20181113103000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113121500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Wolfsburg x Bayern München</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113121500 -0400" stop="20181113131500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113131500 -0400" stop="20181113150000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Rosário Central</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113164500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113164500 -0400" stop="20181113174500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113174500 -0400" stop="20181113184500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184500 -0400" stop="20181113194500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">WWE NXT</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113194500 -0400" stop="20181113210000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">WWE RAW</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113230000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Smackdown</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181114000000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114024500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Indep Santa Fe x Dep Cali</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024500 -0400" stop="20181114054500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Nascar Monster Energy: Kansas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114054500 -0400" stop="20181114060000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114073000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114091500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Indep Santa Fe x Dep Cali</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114091500 -0400" stop="20181114093000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093000 -0400" stop="20181114103000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Aqui Com Benja</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114121500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114121500 -0400" stop="20181114140000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Real Madrid x Levante</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114164500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114164500 -0400" stop="20181114174500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">WEC: Japão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114174500 -0400" stop="20181114184500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">El Clásico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184500 -0400" stop="20181114193000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Vintage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114213000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114214500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214500 -0400" stop="20181114234500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Bahia x Atlético PR</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114234500 -0400" stop="20181115013000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115013000 -0400" stop="20181115031500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115031500 -0400" stop="20181115041500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">WEC: Japão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115041500 -0400" stop="20181115051500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115051500 -0400" stop="20181115070000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115073000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115073000 -0400" stop="20181115083000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">El Clásico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115083000 -0400" stop="20181115101500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115101500 -0400" stop="20181115120000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115120000 -0400" stop="20181115121500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115121500 -0400" stop="20181115123000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115123000 -0400" stop="20181115133000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115133000 -0400" stop="20181115140000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115140000 -0400" stop="20181115160000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Sporting x Arsenal</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115160000 -0400" stop="20181115180000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Olymp Marseille x Lazio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115180000 -0400" stop="20181115183000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Milan x Betis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115183000 -0400" stop="20181115190000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Leipzig x Celtic</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115190000 -0400" stop="20181115193000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Zurich x Leverk</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115193000 -0400" stop="20181115200000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sevilla x Akhisar</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115200000 -0400" stop="20181115210000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">WWE Main Event</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210000 -0400" stop="20181115213000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Programa da Nascar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115213000 -0400" stop="20181115220000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">Bundesliga Weekly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115220000 -0400" stop="20181115223000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Milan x Betis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115223000 -0400" stop="20181115230000 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">La Liga World</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115230000 -0400" stop="20181116004500 -0400" channel="FOX SPORTS 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113011500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113011500 -0400" stop="20181113030000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113040000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113041500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113041500 -0400" stop="20181113060000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Barcelona x Sevilla</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113070000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113073000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113083000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113101500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">San Martín x Racing</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113101500 -0400" stop="20181113103000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113121500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Wolfsburg x Bayern München</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113121500 -0400" stop="20181113131500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113131500 -0400" stop="20181113150000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Rosário Central</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113164500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Campeonato Brasileiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113164500 -0400" stop="20181113174500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113174500 -0400" stop="20181113184500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Show do Campeonato Alemão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184500 -0400" stop="20181113194500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE NXT</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113194500 -0400" stop="20181113210000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE RAW</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113230000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE Smackdown</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181114000000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">FOX Nitro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114024500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Indep Santa Fe x Dep Cali</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114024500 -0400" stop="20181114054500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Nascar Monster Energy: Kansas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114054500 -0400" stop="20181114060000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Filler</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114070000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Show do Campeonato Espanhol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114073000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114091500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Indep Santa Fe x Dep Cali</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114091500 -0400" stop="20181114093000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093000 -0400" stop="20181114103000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Aqui Com Benja</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114121500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114121500 -0400" stop="20181114140000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Real Madrid x Levante</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114150000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114164500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114164500 -0400" stop="20181114174500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WEC: Japão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114174500 -0400" stop="20181114184500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">El Clásico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184500 -0400" stop="20181114193000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE Vintage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114213000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114214500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114214500 -0400" stop="20181114234500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Bahia x Atlético PR</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114234500 -0400" stop="20181115013000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115013000 -0400" stop="20181115031500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115031500 -0400" stop="20181115041500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WEC: Japão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115041500 -0400" stop="20181115051500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115051500 -0400" stop="20181115070000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115073000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Central Fox</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115073000 -0400" stop="20181115083000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">El Clásico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115083000 -0400" stop="20181115101500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115101500 -0400" stop="20181115120000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115120000 -0400" stop="20181115121500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">River Plate x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115121500 -0400" stop="20181115123000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional (URU)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115123000 -0400" stop="20181115133000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Magazine UEL</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115133000 -0400" stop="20181115140000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115140000 -0400" stop="20181115160000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Sporting x Arsenal</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115160000 -0400" stop="20181115180000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Olymp Marseille x Lazio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115180000 -0400" stop="20181115183000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Milan x Betis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115183000 -0400" stop="20181115190000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Leipzig x Celtic</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115190000 -0400" stop="20181115193000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Zurich x Leverk</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115193000 -0400" stop="20181115200000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sevilla x Akhisar</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115200000 -0400" stop="20181115210000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">WWE Main Event</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210000 -0400" stop="20181115213000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Programa da Nascar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115213000 -0400" stop="20181115220000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">Bundesliga Weekly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115220000 -0400" stop="20181115223000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Milan x Betis</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115223000 -0400" stop="20181115230000 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">La Liga World</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115230000 -0400" stop="20181116004500 -0400" channel="FOX SPORTS 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boca Juniors x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113000000 -0400" stop="20181113010000 -0400" channel="FUTURA">
+    <title lang="pt">Melhor Do Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113010000 -0400" stop="20181113011500 -0400" channel="FUTURA">
+    <title lang="pt">Do Alvorecer Às Barrancas Do Rio Gavião</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113011500 -0400" stop="20181113013000 -0400" channel="FUTURA">
+    <title lang="pt">Através Da Janela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113013000 -0400" stop="20181113014500 -0400" channel="FUTURA">
+    <title lang="pt">Canal da História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113014500 -0400" stop="20181113020000 -0400" channel="FUTURA">
+    <title lang="pt">Krenak</title>
+    <sub-title lang="pt">Vivos Na Natureza Morta</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113020000 -0400" stop="20181113021500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113021500 -0400" stop="20181113023000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113023000 -0400" stop="20181113030000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113030000 -0400" stop="20181113033000 -0400" channel="FUTURA">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033000 -0400" stop="20181113034500 -0400" channel="FUTURA">
+    <title lang="pt">Refugiados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113034500 -0400" stop="20181113040000 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista Com Sérgio Abrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113040000 -0400" stop="20181113050000 -0400" channel="FUTURA">
+    <title lang="pt">Mundo.doc</title>
+    <sub-title lang="pt">Histórias do Mundo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113053000 -0400" channel="FUTURA">
+    <title lang="pt">#projetoempreender</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113053000 -0400" stop="20181113054500 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Fundamental</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113054500 -0400" stop="20181113060000 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113060000 -0400" stop="20181113061500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113061500 -0400" stop="20181113063000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063000 -0400" stop="20181113064000 -0400" channel="FUTURA">
+    <title lang="pt">Como Vivemos: Reino Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064000 -0400" stop="20181113064500 -0400" channel="FUTURA">
+    <title lang="pt">Vizinhos Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113064500 -0400" stop="20181113070000 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113073000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113080000 -0400" channel="FUTURA">
+    <title lang="pt">Saúde à Vontade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="FUTURA">
+    <title lang="pt">Na Trilha da Energia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113084500 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista</title>
+    <sub-title lang="pt">Ciência e Saúde</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113084500 -0400" stop="20181113090000 -0400" channel="FUTURA">
+    <title lang="pt">Janelas de Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113093000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113093000 -0400" stop="20181113094500 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113094500 -0400" stop="20181113100000 -0400" channel="FUTURA">
+    <title lang="pt">Canal da História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113103000 -0400" channel="FUTURA">
+    <title lang="pt">Hora do Enem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113103000 -0400" stop="20181113104000 -0400" channel="FUTURA">
+    <title lang="pt">O Que Tem Lá?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113104000 -0400" stop="20181113110000 -0400" channel="FUTURA">
+    <title lang="pt">Os Cobaias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113110000 -0400" stop="20181113111500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113111500 -0400" stop="20181113113000 -0400" channel="FUTURA">
+    <title lang="pt">Sebastiana Quebra-Galho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113113000 -0400" stop="20181113120000 -0400" channel="FUTURA">
+    <title lang="pt">Amor de Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113120000 -0400" stop="20181113123000 -0400" channel="FUTURA">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113123000 -0400" stop="20181113130000 -0400" channel="FUTURA">
+    <title lang="pt">Trabalhos Com História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113130000 -0400" stop="20181113131500 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113131500 -0400" stop="20181113133000 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113133000 -0400" stop="20181113140000 -0400" channel="FUTURA">
+    <title lang="pt">Hora do Enem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113140000 -0400" stop="20181113143000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113143000 -0400" stop="20181113144500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113144500 -0400" stop="20181113150000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113150000 -0400" stop="20181113153000 -0400" channel="FUTURA">
+    <title lang="pt">Saúde à Vontade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113153000 -0400" stop="20181113160000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113160000 -0400" stop="20181113161000 -0400" channel="FUTURA">
+    <title lang="pt">O Que Tem Lá?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113161000 -0400" stop="20181113163000 -0400" channel="FUTURA">
+    <title lang="pt">Os Cobaias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113163000 -0400" stop="20181113173000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113173000 -0400" stop="20181113180000 -0400" channel="FUTURA">
+    <title lang="pt">Vida Fluxo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113180000 -0400" stop="20181113181500 -0400" channel="FUTURA">
+    <title lang="pt">Diz Aí</title>
+    <sub-title lang="pt">Afro e Indígena</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113181500 -0400" stop="20181113183000 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113183000 -0400" stop="20181113184500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184500 -0400" stop="20181113190000 -0400" channel="FUTURA">
+    <title lang="pt">Los Niños De Pies Descalzos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113190000 -0400" stop="20181113191500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113191500 -0400" stop="20181113193000 -0400" channel="FUTURA">
+    <title lang="pt">O Tempo Que Temos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113193000 -0400" stop="20181113200000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113200000 -0400" stop="20181113203000 -0400" channel="FUTURA">
+    <title lang="pt">Amor de Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113203000 -0400" stop="20181113210000 -0400" channel="FUTURA">
+    <title lang="pt">Minha Rua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113210000 -0400" stop="20181113220000 -0400" channel="FUTURA">
+    <title lang="pt">Debate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113220000 -0400" stop="20181113221500 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista Com Sérgio Abrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113221500 -0400" stop="20181113223000 -0400" channel="FUTURA">
+    <title lang="pt">Entre Escolas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223000 -0400" stop="20181113230000 -0400" channel="FUTURA">
+    <title lang="pt">Futurando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113230000 -0400" stop="20181113234500 -0400" channel="FUTURA">
+    <title lang="pt">Profissão Repórter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113234500 -0400" stop="20181114000000 -0400" channel="FUTURA">
+    <title lang="pt">Projeto Meme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114000000 -0400" stop="20181114010000 -0400" channel="FUTURA">
+    <title lang="pt">Melhor Do Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114010000 -0400" stop="20181114011500 -0400" channel="FUTURA">
+    <title lang="pt">Los Niños De Pies Descalzos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114011500 -0400" stop="20181114013000 -0400" channel="FUTURA">
+    <title lang="pt">O Tempo Que Temos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114013000 -0400" stop="20181114020000 -0400" channel="FUTURA">
+    <title lang="pt">Minha Rua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114021500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114021500 -0400" stop="20181114023000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114023000 -0400" stop="20181114030000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114030000 -0400" stop="20181114033000 -0400" channel="FUTURA">
+    <title lang="pt">Amor de Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114033000 -0400" stop="20181114034500 -0400" channel="FUTURA">
+    <title lang="pt">Sebastiana Quebra-Galho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114034500 -0400" stop="20181114040000 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista Com Sérgio Abrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040000 -0400" stop="20181114044500 -0400" channel="FUTURA">
+    <title lang="pt">Profissão Repórter</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114044500 -0400" stop="20181114050000 -0400" channel="FUTURA">
+    <title lang="pt">Natureza Forte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114050000 -0400" stop="20181114053000 -0400" channel="FUTURA">
+    <title lang="pt">Profetas Da Chuva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114053000 -0400" stop="20181114054500 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Fundamental</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114054500 -0400" stop="20181114060000 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114060000 -0400" stop="20181114061500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114061500 -0400" stop="20181114063000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063000 -0400" stop="20181114064000 -0400" channel="FUTURA">
+    <title lang="pt">Como Vivemos: Reino Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064000 -0400" stop="20181114064500 -0400" channel="FUTURA">
+    <title lang="pt">Vizinhos Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114064500 -0400" stop="20181114070000 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114073000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114080000 -0400" channel="FUTURA">
+    <title lang="pt">Almanaque Saúde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114083000 -0400" channel="FUTURA">
+    <title lang="pt">Brasil 2050</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114084500 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista</title>
+    <sub-title lang="pt">Ciência e Saúde</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114084500 -0400" stop="20181114090000 -0400" channel="FUTURA">
+    <title lang="pt">Janelas de Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114093000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114093000 -0400" stop="20181114094500 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114094500 -0400" stop="20181114100000 -0400" channel="FUTURA">
+    <title lang="pt">Canal da História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114103000 -0400" channel="FUTURA">
+    <title lang="pt">Hora do Enem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114103000 -0400" stop="20181114104000 -0400" channel="FUTURA">
+    <title lang="pt">Infotoy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114104000 -0400" stop="20181114110000 -0400" channel="FUTURA">
+    <title lang="pt">Os Cobaias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114110000 -0400" stop="20181114111500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114111500 -0400" stop="20181114113000 -0400" channel="FUTURA">
+    <title lang="pt">Sebastiana Quebra-Galho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114113000 -0400" stop="20181114120000 -0400" channel="FUTURA">
+    <title lang="pt">Amor de Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120000 -0400" stop="20181114130000 -0400" channel="FUTURA">
+    <title lang="pt">Debate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114130000 -0400" stop="20181114131500 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114131500 -0400" stop="20181114133000 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114133000 -0400" stop="20181114140000 -0400" channel="FUTURA">
+    <title lang="pt">Hora do Enem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114140000 -0400" stop="20181114143000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114143000 -0400" stop="20181114144500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114144500 -0400" stop="20181114150000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114150000 -0400" stop="20181114153000 -0400" channel="FUTURA">
+    <title lang="pt">Almanaque Saúde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114160000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114160000 -0400" stop="20181114161000 -0400" channel="FUTURA">
+    <title lang="pt">Infotoy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114161000 -0400" stop="20181114163000 -0400" channel="FUTURA">
+    <title lang="pt">Os Cobaias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114163000 -0400" stop="20181114170000 -0400" channel="FUTURA">
+    <title lang="pt">Índios no Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114170000 -0400" stop="20181114173000 -0400" channel="FUTURA">
+    <title lang="pt">Terra E Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114173000 -0400" stop="20181114180000 -0400" channel="FUTURA">
+    <title lang="pt">Amor de Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114180000 -0400" stop="20181114181000 -0400" channel="FUTURA">
+    <title lang="pt">Um Pé de Quê?</title>
+    <sub-title lang="pt">Um Pé na Cozinha</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114181000 -0400" stop="20181114181500 -0400" channel="FUTURA">
+    <title lang="pt">Vizinhos Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114181500 -0400" stop="20181114183000 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114183000 -0400" stop="20181114184500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114184500 -0400" stop="20181114190000 -0400" channel="FUTURA">
+    <title lang="pt">Leitores Da Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114190000 -0400" stop="20181114191500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114191500 -0400" stop="20181114193000 -0400" channel="FUTURA">
+    <title lang="pt">Alfabetização Em Angicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114193000 -0400" stop="20181114200000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114200000 -0400" stop="20181114203000 -0400" channel="FUTURA">
+    <title lang="pt">Identidade Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114203000 -0400" stop="20181114210000 -0400" channel="FUTURA">
+    <title lang="pt">Cidades e Soluções</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210000 -0400" stop="20181114213000 -0400" channel="FUTURA">
+    <title lang="pt">Brasil 2050</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114213000 -0400" stop="20181114220000 -0400" channel="FUTURA">
+    <title lang="pt">Na Trilha da Energia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114220000 -0400" stop="20181114221500 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista Com Sérgio Abrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114221500 -0400" stop="20181114222500 -0400" channel="FUTURA">
+    <title lang="pt">Um Pé de Quê?</title>
+    <sub-title lang="pt">Um Pé na Cozinha</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114222500 -0400" stop="20181114223000 -0400" channel="FUTURA">
+    <title lang="pt">Vizinhos Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223000 -0400" stop="20181114224500 -0400" channel="FUTURA">
+    <title lang="pt">Natureza Forte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114224500 -0400" stop="20181114230000 -0400" channel="FUTURA">
+    <title lang="pt">Sebastiana Quebra-Galho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114230000 -0400" stop="20181114233000 -0400" channel="FUTURA">
+    <title lang="pt">Índios no Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114233000 -0400" stop="20181115000000 -0400" channel="FUTURA">
+    <title lang="pt">Retratos de Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115000000 -0400" stop="20181115001500 -0400" channel="FUTURA">
+    <title lang="pt">Alfabetismo Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115001500 -0400" stop="20181115010000 -0400" channel="FUTURA">
+    <title lang="pt">Melhor Do Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115010000 -0400" stop="20181115011500 -0400" channel="FUTURA">
+    <title lang="pt">Leitores Da Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115011500 -0400" stop="20181115013000 -0400" channel="FUTURA">
+    <title lang="pt">Alfabetização Em Angicos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115013000 -0400" stop="20181115020000 -0400" channel="FUTURA">
+    <title lang="pt">Na Trilha da Energia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115020000 -0400" stop="20181115021500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115021500 -0400" stop="20181115023000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115023000 -0400" stop="20181115030000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115030000 -0400" stop="20181115033000 -0400" channel="FUTURA">
+    <title lang="pt">Retratos de Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115033000 -0400" stop="20181115034500 -0400" channel="FUTURA">
+    <title lang="pt">Grandes Cidades</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115034500 -0400" stop="20181115040000 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista Com Sérgio Abrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115040000 -0400" stop="20181115043000 -0400" channel="FUTURA">
+    <title lang="pt">Futurando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115043000 -0400" stop="20181115050000 -0400" channel="FUTURA">
+    <title lang="pt">Terra E Mar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115050000 -0400" stop="20181115053000 -0400" channel="FUTURA">
+    <title lang="pt">Interface</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115053000 -0400" stop="20181115054500 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Fundamental</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115054500 -0400" stop="20181115060000 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115060000 -0400" stop="20181115061500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115061500 -0400" stop="20181115063000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115063000 -0400" stop="20181115064000 -0400" channel="FUTURA">
+    <title lang="pt">Como Vivemos: Reino Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115064000 -0400" stop="20181115064500 -0400" channel="FUTURA">
+    <title lang="pt">Vizinhos Selvagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115064500 -0400" stop="20181115070000 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115073000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115073000 -0400" stop="20181115080000 -0400" channel="FUTURA">
+    <title lang="pt">Saúde à Vontade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115080000 -0400" stop="20181115083000 -0400" channel="FUTURA">
+    <title lang="pt">Índios no Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115083000 -0400" stop="20181115084500 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista</title>
+    <sub-title lang="pt">Ciência e Saúde</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115084500 -0400" stop="20181115090000 -0400" channel="FUTURA">
+    <title lang="pt">Janelas de Inovação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115090000 -0400" stop="20181115093000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115093000 -0400" stop="20181115094500 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115094500 -0400" stop="20181115100000 -0400" channel="FUTURA">
+    <title lang="pt">Canal da História</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115100000 -0400" stop="20181115103000 -0400" channel="FUTURA">
+    <title lang="pt">Hora do Enem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115103000 -0400" stop="20181115104000 -0400" channel="FUTURA">
+    <title lang="pt">O Que Tem Lá?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115104000 -0400" stop="20181115110000 -0400" channel="FUTURA">
+    <title lang="pt">Os Cobaias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115110000 -0400" stop="20181115111500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115111500 -0400" stop="20181115113000 -0400" channel="FUTURA">
+    <title lang="pt">Sebastiana Quebra-Galho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115113000 -0400" stop="20181115120000 -0400" channel="FUTURA">
+    <title lang="pt">Amor de Cozinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115120000 -0400" stop="20181115123000 -0400" channel="FUTURA">
+    <title lang="pt">Brasil 2050</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115123000 -0400" stop="20181115130000 -0400" channel="FUTURA">
+    <title lang="pt">Na Trilha da Energia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115130000 -0400" stop="20181115131500 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115131500 -0400" stop="20181115133000 -0400" channel="FUTURA">
+    <title lang="pt">Novo Telecurso</title>
+    <sub-title lang="pt">Ensino Médio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115133000 -0400" stop="20181115140000 -0400" channel="FUTURA">
+    <title lang="pt">Hora do Enem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115140000 -0400" stop="20181115143000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115143000 -0400" stop="20181115144500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115144500 -0400" stop="20181115150000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115150000 -0400" stop="20181115153000 -0400" channel="FUTURA">
+    <title lang="pt">Saúde à Vontade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115153000 -0400" stop="20181115160000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115160000 -0400" stop="20181115161000 -0400" channel="FUTURA">
+    <title lang="pt">O Que Tem Lá?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115161000 -0400" stop="20181115163000 -0400" channel="FUTURA">
+    <title lang="pt">Os Cobaias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115163000 -0400" stop="20181115170000 -0400" channel="FUTURA">
+    <title lang="pt">#projetoempreender</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115170000 -0400" stop="20181115171500 -0400" channel="FUTURA">
+    <title lang="pt">Pense Grande.doc</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115171500 -0400" stop="20181115173000 -0400" channel="FUTURA">
+    <title lang="pt">Nci: Cultura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115173000 -0400" stop="20181115180000 -0400" channel="FUTURA">
+    <title lang="pt">Sua Escola, Nossa Escola</title>
+    <sub-title lang="pt">Alfabetização</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115180000 -0400" stop="20181115181500 -0400" channel="FUTURA">
+    <title lang="pt">Entre Escolas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115181500 -0400" stop="20181115183000 -0400" channel="FUTURA">
+    <title lang="pt">Prêmio Arte Na Escola Cidadã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115183000 -0400" stop="20181115184500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115184500 -0400" stop="20181115190000 -0400" channel="FUTURA">
+    <title lang="pt">Imbilino Vai ao Cinema</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115190000 -0400" stop="20181115191500 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115191500 -0400" stop="20181115193000 -0400" channel="FUTURA">
+    <title lang="pt">A Cultura Youtuber</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115193000 -0400" stop="20181115200000 -0400" channel="FUTURA">
+    <title lang="pt">Conexão Futura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115200000 -0400" stop="20181115203000 -0400" channel="FUTURA">
+    <title lang="pt">Amazônia Postal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115203000 -0400" stop="20181115210000 -0400" channel="FUTURA">
+    <title lang="pt">Turma da Robótica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210000 -0400" stop="20181115220000 -0400" channel="FUTURA">
+    <title lang="pt">Destino: Educação</title>
+    <sub-title lang="pt">Escolas Inovadoras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115220000 -0400" stop="20181115221500 -0400" channel="FUTURA">
+    <title lang="pt">Entrevista Com Sérgio Abrantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115221500 -0400" stop="20181115223000 -0400" channel="FUTURA">
+    <title lang="pt">Pense Grande.doc</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115223000 -0400" stop="20181115230000 -0400" channel="FUTURA">
+    <title lang="pt">Futura Profissão</title>
+    <sub-title lang="pt">Inovadores</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115230000 -0400" stop="20181115231500 -0400" channel="FUTURA">
+    <title lang="pt">Alfabetismo Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115231500 -0400" stop="20181115233000 -0400" channel="FUTURA">
+    <title lang="pt">Educação Na Veia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115233000 -0400" stop="20181115234500 -0400" channel="FUTURA">
+    <title lang="pt">Diz Aí</title>
+    <sub-title lang="pt">Afro e Indígena</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115234500 -0400" stop="20181116000000 -0400" channel="FUTURA">
+    <title lang="pt">Olhar Indiscreto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003500 -0400" stop="20181113021500 -0400" channel="FX">
+    <title lang="pt">O Vidente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113021500 -0400" stop="20181113024000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113024000 -0400" stop="20181113031000 -0400" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031000 -0400" stop="20181113033500 -0400" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033500 -0400" stop="20181113050000 -0400" channel="FX">
+    <title lang="pt">Corra que a Polícia vem Aí!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113063500 -0400" channel="FX">
+    <title lang="pt">Happy Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063500 -0400" stop="20181113070000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113073000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113080000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113100000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113115000 -0400" channel="FX">
+    <title lang="pt">Sunshine</title>
+    <sub-title lang="pt">Alerta Solar</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113115000 -0400" stop="20181113122000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113122000 -0400" stop="20181113125000 -0400" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113125000 -0400" stop="20181113132000 -0400" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113132000 -0400" stop="20181113145000 -0400" channel="FX">
+    <title lang="pt">Corra que a Polícia vem Aí!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113145000 -0400" stop="20181113165000 -0400" channel="FX">
+    <title lang="pt">Este é o Meu Garoto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113165000 -0400" stop="20181113184500 -0400" channel="FX">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184500 -0400" stop="20181113204000 -0400" channel="FX">
+    <title lang="pt">As Férias da Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113204000 -0400" stop="20181113223000 -0400" channel="FX">
+    <title lang="pt">De Pernas Pro Ar 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223000 -0400" stop="20181114001500 -0400" channel="FX">
+    <title lang="pt">MIB</title>
+    <sub-title lang="pt">Homens de Preto 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114001500 -0400" stop="20181114020000 -0400" channel="FX">
+    <title lang="pt">Motoqueiro Fantasma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114022500 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114022500 -0400" stop="20181114025000 -0400" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114025000 -0400" stop="20181114031500 -0400" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114031500 -0400" stop="20181114040500 -0400" channel="FX">
+    <title lang="pt">American Horror Story</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040500 -0400" stop="20181114061000 -0400" channel="FX">
+    <title lang="pt">Instinto Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114061000 -0400" stop="20181114063000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063000 -0400" stop="20181114070000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114073000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114080000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114083000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114090000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114120500 -0400" channel="FX">
+    <title lang="pt">Stealth</title>
+    <sub-title lang="pt">Ameaça Invisível</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120500 -0400" stop="20181114123000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123000 -0400" stop="20181114125500 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114125500 -0400" stop="20181114132500 -0400" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114132500 -0400" stop="20181114135500 -0400" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114135500 -0400" stop="20181114153000 -0400" channel="FX">
+    <title lang="pt">O Lago dos Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114172000 -0400" channel="FX">
+    <title lang="pt">Desbravadores</title>
+    <sub-title lang="pt">A Lenda do Guerreiro Fantasma</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114172000 -0400" stop="20181114191000 -0400" channel="FX">
+    <title lang="pt">MIB</title>
+    <sub-title lang="pt">Homens de Preto 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114191000 -0400" stop="20181114210500 -0400" channel="FX">
+    <title lang="pt">As Férias da Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210500 -0400" stop="20181114223000 -0400" channel="FX">
+    <title lang="pt">Todo Mundo em Pânico 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223000 -0400" stop="20181115002000 -0400" channel="FX">
+    <title lang="pt">Ted</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115002000 -0400" stop="20181115021500 -0400" channel="FX">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115021500 -0400" stop="20181115024000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115024000 -0400" stop="20181115031000 -0400" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115031000 -0400" stop="20181115033500 -0400" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115033500 -0400" stop="20181115053000 -0400" channel="FX">
+    <title lang="pt">Stealth</title>
+    <sub-title lang="pt">Ameaça Invisível</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115053000 -0400" stop="20181115070000 -0400" channel="FX">
+    <title lang="pt">Caçada ao Assassino Btk</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115073000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115073000 -0400" stop="20181115080000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115080000 -0400" stop="20181115083000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115083000 -0400" stop="20181115090000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115090000 -0400" stop="20181115100000 -0400" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115100000 -0400" stop="20181115120500 -0400" channel="FX">
+    <title lang="pt">A Soma de todos os Medos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115120500 -0400" stop="20181115123000 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115123000 -0400" stop="20181115125500 -0400" channel="FX">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115125500 -0400" stop="20181115132500 -0400" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115132500 -0400" stop="20181115135500 -0400" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115135500 -0400" stop="20181115155000 -0400" channel="FX">
+    <title lang="pt">Victor Frankenstein</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115155000 -0400" stop="20181115164500 -0400" channel="FX">
+    <title lang="pt">American Horror Story</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115164500 -0400" stop="20181115184000 -0400" channel="FX">
+    <title lang="pt">X-Men Origens: Wolverine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115184000 -0400" stop="20181115210000 -0400" channel="FX">
+    <title lang="pt">Wolverine: Imortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210000 -0400" stop="20181115230500 -0400" channel="FX">
+    <title lang="pt">A Múmia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115230500 -0400" stop="20181116005000 -0400" channel="FX">
+    <title lang="pt">X-Men 3: O Confronto Final</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113003500 -0400" stop="20181113021500 -0400" channel="FX HD">
+    <title lang="pt">O Vidente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113021500 -0400" stop="20181113024000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113024000 -0400" stop="20181113031000 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113031000 -0400" stop="20181113033500 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113033500 -0400" stop="20181113050000 -0400" channel="FX HD">
+    <title lang="pt">Corra que a Polícia vem Aí!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113050000 -0400" stop="20181113063500 -0400" channel="FX HD">
+    <title lang="pt">Happy Texas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113063500 -0400" stop="20181113070000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113070000 -0400" stop="20181113073000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113073000 -0400" stop="20181113080000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113080000 -0400" stop="20181113083000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113083000 -0400" stop="20181113090000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113090000 -0400" stop="20181113100000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113100000 -0400" stop="20181113115000 -0400" channel="FX HD">
+    <title lang="pt">Sunshine</title>
+    <sub-title lang="pt">Alerta Solar</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113115000 -0400" stop="20181113122000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113122000 -0400" stop="20181113125000 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113125000 -0400" stop="20181113132000 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113132000 -0400" stop="20181113145000 -0400" channel="FX HD">
+    <title lang="pt">Corra que a Polícia vem Aí!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113145000 -0400" stop="20181113165000 -0400" channel="FX HD">
+    <title lang="pt">Este é o Meu Garoto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113165000 -0400" stop="20181113184500 -0400" channel="FX HD">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113184500 -0400" stop="20181113204000 -0400" channel="FX HD">
+    <title lang="pt">As Férias da Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113204000 -0400" stop="20181113223000 -0400" channel="FX HD">
+    <title lang="pt">De Pernas Pro Ar 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181113223000 -0400" stop="20181114001500 -0400" channel="FX HD">
+    <title lang="pt">MIB</title>
+    <sub-title lang="pt">Homens de Preto 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114001500 -0400" stop="20181114020000 -0400" channel="FX HD">
+    <title lang="pt">Motoqueiro Fantasma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114020000 -0400" stop="20181114022500 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114022500 -0400" stop="20181114025000 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114025000 -0400" stop="20181114031500 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114031500 -0400" stop="20181114040500 -0400" channel="FX HD">
+    <title lang="pt">American Horror Story</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114040500 -0400" stop="20181114061000 -0400" channel="FX HD">
+    <title lang="pt">Instinto Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114061000 -0400" stop="20181114063000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114063000 -0400" stop="20181114070000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114070000 -0400" stop="20181114073000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114073000 -0400" stop="20181114080000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114080000 -0400" stop="20181114083000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114083000 -0400" stop="20181114090000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114090000 -0400" stop="20181114100000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114100000 -0400" stop="20181114120500 -0400" channel="FX HD">
+    <title lang="pt">Stealth</title>
+    <sub-title lang="pt">Ameaça Invisível</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114120500 -0400" stop="20181114123000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114123000 -0400" stop="20181114125500 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114125500 -0400" stop="20181114132500 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114132500 -0400" stop="20181114135500 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114135500 -0400" stop="20181114153000 -0400" channel="FX HD">
+    <title lang="pt">O Lago dos Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114153000 -0400" stop="20181114172000 -0400" channel="FX HD">
+    <title lang="pt">Desbravadores</title>
+    <sub-title lang="pt">A Lenda do Guerreiro Fantasma</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114172000 -0400" stop="20181114191000 -0400" channel="FX HD">
+    <title lang="pt">MIB</title>
+    <sub-title lang="pt">Homens de Preto 3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114191000 -0400" stop="20181114210500 -0400" channel="FX HD">
+    <title lang="pt">As Férias da Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114210500 -0400" stop="20181114223000 -0400" channel="FX HD">
+    <title lang="pt">Todo Mundo em Pânico 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181114223000 -0400" stop="20181115002000 -0400" channel="FX HD">
+    <title lang="pt">Ted</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115002000 -0400" stop="20181115021500 -0400" channel="FX HD">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115021500 -0400" stop="20181115024000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115024000 -0400" stop="20181115031000 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115031000 -0400" stop="20181115033500 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115033500 -0400" stop="20181115053000 -0400" channel="FX HD">
+    <title lang="pt">Stealth</title>
+    <sub-title lang="pt">Ameaça Invisível</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115053000 -0400" stop="20181115070000 -0400" channel="FX HD">
+    <title lang="pt">Caçada ao Assassino Btk</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115070000 -0400" stop="20181115073000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115073000 -0400" stop="20181115080000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115080000 -0400" stop="20181115083000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115083000 -0400" stop="20181115090000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115090000 -0400" stop="20181115100000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115100000 -0400" stop="20181115120500 -0400" channel="FX HD">
+    <title lang="pt">A Soma de todos os Medos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115120500 -0400" stop="20181115123000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115123000 -0400" stop="20181115125500 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115125500 -0400" stop="20181115132500 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115132500 -0400" stop="20181115135500 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115135500 -0400" stop="20181115155000 -0400" channel="FX HD">
+    <title lang="pt">Victor Frankenstein</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115155000 -0400" stop="20181115164500 -0400" channel="FX HD">
+    <title lang="pt">American Horror Story</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115164500 -0400" stop="20181115184000 -0400" channel="FX HD">
+    <title lang="pt">X-Men Origens: Wolverine</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115184000 -0400" stop="20181115210000 -0400" channel="FX HD">
+    <title lang="pt">Wolverine: Imortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115210000 -0400" stop="20181115230500 -0400" channel="FX HD">
+    <title lang="pt">A Múmia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181115230500 -0400" stop="20181116005000 -0400" channel="FX HD">
+    <title lang="pt">X-Men 3: O Confronto Final</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
